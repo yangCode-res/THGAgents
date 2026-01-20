@@ -11,42 +11,21 @@
         {
           "pmid": "35471840",
           "pmc_full_text": {
-            "pmc_id": "PMC9273105",
             "sections": {
-              "Abstract": "",
-              "Tumor Immunity in the Microenvironment": "",
-              "Anti-PD Therapy as Normalization Cancer Immunotherapy": "",
-              "Primary Versus Acquired Resistance to Anti-PD Therapy": "",
-              "Mechanisms of Immune Resistance to Anti-PD Therapy": "",
-              "Lack of B7-H1 Expression in the Tumor Microenvironment": "",
-              "T Cell Exclusion": "",
-              "Antigen Loss Through Immunoediting": "",
-              "Coinhibitory Molecules in the Tumor Microenvironment": "",
-              "Secreted Immunosuppressive Factors": "",
-              "Metabolism and Anti-PD Therapy Resistance": "",
-              "Microbiota": "",
-              "Epigenetics and Anti-PD Therapy Resistance": "",
-              "Overcoming Anti-PD Therapy Resistance": "",
-              "Predictive and Prognostic Biomarkers": "",
-              "Combination Therapy": "",
-              "Normalization Cancer Immunotherapy": "",
-              "Conclusions": ""
+
             }
           }
         },
         {
           "pmid": "36527888",
           "pmc_full_text": {
-            "pmc_id": "10.1016/j.drup.2022.100907",
             "sections": {
               }
           }
         },
         {
           "pmid": "36177034",
-          "pmc_id": "PMC9513184",
           "pmc_full_text": {
-            "pmc_id": "PMC9513184",
             "sections": {
              },
             "full_text": "",
@@ -57,7 +36,6 @@
         {
           "pmid": "34539412",
           "pmc_full_text": {
-            "pmc_id": "PMC8440961",
             "sections": {
               },
             "has_full_text": true,
@@ -66,9 +44,8 @@
         },
         {
           "pmid": "35592338",
-          "pmc_id": "PMC9110638",
+
           "pmc_full_text": {
-            "pmc_id": "PMC9110638",
             "sections": {
               },
             "full_text": "",
@@ -78,7 +55,6 @@
         },
         {
           "pmid": "33854633",
-          "pmc_id": "PMC8040720",
           "pmc_full_text": {
               "title": "A snapshot of the PD-1/PD-L1 pathway",
               "sections": {
@@ -87,18 +63,17 @@
         },
         {
           "pmid": "33197221",
-          "pmc_id": "",
+
           "pmc_full_text": {
-            "pmc_id": "PMC7814122",
             "sections": {
              }
             }
         },
         {
           "pmid": "35842707",
-          "pmc_id": "PMC9288068",
+
           "pmc_full_text": {
-            "pmc_id": "PMC9288068",
+
             "sections": {
                 },
             "has_full_text": true,
@@ -107,7 +82,7 @@
         },
         {
           "pmid": "32001626",
-          "pmc_id": "PMC7789854",
+
           "pmc_full_text": {
               "title": "Neoadjuvant checkpoint blockade for cancer immunotherapy",
                "sections": {
@@ -116,7 +91,7 @@
         },
         {
           "pmid": "35392976",
-          "pmc_id": "PMC8991803",
+
           "pmc_full_text": {
             "title": "Improvement of the anticancer efficacy of PD-1/PD-L1 blockade via combination therapy and PD-L1 regulation",
             "sections": {
@@ -125,9 +100,9 @@
         },
         {
           "pmid": "36290818",
-          "pmc_id": "PMC9600738",
+
           "pmc_full_text": {
-            "pmc_id": "PMC9600738",
+
             "sections": {
               },
             "has_full_text": true,
@@ -136,7 +111,7 @@
         },
         {
           "pmid": "34580079",
-          "pmc_id": "PMC8957639",
+
           "pmc_full_text": {
           "title": "Tumor Immunology and Immunotherapy of Non-Small-Cell Lung Cancer",
           "sections": {
@@ -145,7 +120,7 @@
         },
         {
           "pmid": "35279217",
-          "pmc_id": "PMC8917703",
+
           "pmc_full_text": {
               "sections": {
                 }
@@ -153,9 +128,9 @@
         },
         {
           "pmid": "32021257",
-          "pmc_id": "PMC6954840",
+
           "pmc_full_text": {
-            "pmc_id": "PMC6954840",
+
             "sections": {
               },
             "has_full_text": true,
@@ -164,7 +139,7 @@
         },
         {
           "pmid": "31063806",
-          "pmc_id": "",
+
           "pmc_full_text": {
             "sections": {
               }
@@ -606,11 +581,8 @@
               "Optimal combination therapies to overcome PD-1/PD-L1 blockade resistance need to be determined"
             ],
             "testability": "high",
-            "rationale": "Proposes a novel sequencing strategy for combination immunotherapy based on mechanistic understanding of T cell biology.",
-            "validation_results": {
-              "not_relevant": 316
-            },
-            "validated_by_articles": []
+            "rationale": "Proposes a novel sequencing strategy for combination immunotherapy based on mechanistic understanding of T cell biology."
+
           },
           {
             "hypothesis_id": "H011",
@@ -997,11 +969,7 @@
               "Mechanisms of acquired resistance to anti-PD-1/PD-L1 therapies"
             ],
             "testability": "high",
-            "rationale": "Proposes a liquid biopsy approach for early detection of resistance, enabling timely intervention before clinical deterioration.",
-            "validation_results": {
-              "not_relevant": 316
-            },
-            "validated_by_articles": []
+            "rationale": "Proposes a liquid biopsy approach for early detection of resistance, enabling timely intervention before clinical deterioration."
           },
           {
             "hypothesis_id": "H020",
@@ -1235,11 +1203,7 @@
               "Strategies to overcome treatment-related toxicities of immune checkpoint inhibitors"
             ],
             "testability": "high",
-            "rationale": "Addresses a critical clinical dilemma in treating cancer patients with pre-existing autoimmune conditions, balancing efficacy and toxicity risks.",
-            "validation_results": {
-              "not_relevant": 316
-            },
-            "validated_by_articles": []
+            "rationale": "Addresses a critical clinical dilemma in treating cancer patients with pre-existing autoimmune conditions, balancing efficacy and toxicity risks."
           },
           {
             "hypothesis_id": "H026",
@@ -1642,7 +1606,6 @@
         {
           "pmid": "33271426",
 
-          "pmc_id": "",
           "pmc_full_text": {
                 "sections": {
                         }
@@ -1668,16 +1631,14 @@
         {
           "pmid": "31735529",
           "pmc_full_text": {
-            "pmc_id": "PMC7103233",
             "sections": {
               }
           }
         },
         {
           "pmid": "35631252",
-          "pmc_id": "PMC9144835",
+
           "pmc_full_text": {
-            "pmc_id": "PMC9144835",
             "sections": {
               },
              "has_full_text": true,
@@ -1688,7 +1649,6 @@
           "pmid": "28757456",
           
           "pmc_full_text": {
-            "pmc_id": "10.1016/j.neubiorev.2017.07.003",
             "sections": {
               }
           }
@@ -1697,16 +1657,16 @@
           "pmid": "30415609",
           
           "pmc_full_text": {
-            "pmc_id": "PMC7814122",
+
             "sections": {
               }
           }
         },
         {
           "pmid": "32772900",
-          "pmc_id": "PMC7877977",
+
           "pmc_full_text": {
-            "pmc_id": "10.1080/07853890.2020.1808239",
+
             "sections": {
                }
           }
@@ -1715,7 +1675,7 @@
           "pmid": "32899236",
           
           "pmc_full_text": {
-            "pmc_id": "PMC7504034",
+
             "sections": {
              },
              "has_full_text": true,
@@ -1725,7 +1685,7 @@
         {
           "pmid": "32149335",
           "pmc_full_text": {
-            "pmc_id": "PMC7360462",
+
             "sections": {
               },
             "has_full_text": true,
@@ -1735,27 +1695,26 @@
         {
           "pmid": "36145184",
           
-          "pmc_id": "PMC9505863",
+
           "pmc_full_text": {
-            "pmc_id": "Nutrients_2022_14_3809",
+
             "sections": {
               }
           }
         },
         {
           "pmid": "31144383",
-          "pmc_id": "",
+
           "pmc_full_text": {
-            "pmc_id": "PMC6658133",
-            "sections": {},
-            "full_text": "## Abstract\nThe study of the gut microbiome has increasingly revealed an important role in mod- ulating brain function and mental health. In this review, we underscore specific path- ways and mechanisms by which the gut microbiome can promote the development of mental disorders such as depression and anxiety. First, we review the involvement of the stress response and immune system activation in the development of depression and anxiety. Then, we examine germ-free murine models used to uncover the role of the gut microbiome in developing and modulating pertinent activity in the brain and the immune system. We also document multiple pathways by which stress-in- duced inflammation harms brain function and ultimately affects mental health, and review how probiotic and prebiotic treatments have shown to be beneficial. Lastly, we provide an overview of gut microbiome-derived compounds (short-chain fatty acids, tryptophan catabolites, microbial pattern recognition) and related mechanisms (vagal nerve activity and fecal microbiota transplants) involved in mediating the influ- ence of the gut microbiome to mental health. Overall, a picture of the gut microbiome playing a facilitating role between stress response, inflammation, and depression, and anxiety is emerging. Future research is needed to firmly establish the microbiome's causal role, to further elucidate the mechanisms by which gut microbes influence brain function and mental health, and to possibly develop treatments that improve mental health through microbiotic targets.\n\n## Introduction\nThe gut microbiome is the collection of microorganisms, mainly bacteria, that reside within the gastrointestinal (GI) tract in the human host (Backhed, Ley, Sonnenburg, Peterson, & Gordon, 2005). These microbes are estimated to outnumber human cells (Sender, Fuchs, & Milo, 2016) and have orders of magnitude more genes than their human host (Qin et al., 2010). The implications of the gut microbiome for human health are so vast that the Human Microbiome Project (HMP) has begun to analyze the human microbiome by using a variety of techniques (Proctor, 2016). One of the main goals of the HMP is to uncover a human microbiome reference genome that can be used to characterize dysbiosis and could allow the association of it with a variety of conditions, both normal and pathological (Proctor, 2016). The composition of the microbiome is affected by several factors including birth mode, infant feeding method, social and outdoor exposure, and antibiotic use (Bloomfield et al., 2016). A myriad of recent studies has revealed that the gut microbiome seems to be intimately interwoven with mental health. More specifically, both the function of the Central Nervous System and its stress-triggered dysfunction have emerged as targets of gut microbiome imbalance. The gut microbiome appears to significantly interact with the nervous system through the gut–brain axis, a communication channel between the central and enteric nervous system (Carabotti, Scirocco, Maselli, & Severi, 2015). Gut microbes thereby have the potential to influence brain activity and ultimately, mental health (Rogers et al., 2016). Efforts have been made to improve the microbiome composition using probiotics and prebiotics (Schrezenmeir & de Vrese, 2001). Mental health is a growing concern as rates of common mental disorders such as depression and anxiety have increased over the past several decades (Friedrich, 2017; Jorm, Patten, Brugha, & Mojtabai, 2017). Human and animal studies have provided increasing evidence suggesting a strong link between the gut microbiome composition and the development of mental disorders (Jiang et al., 2018; Rogers et al., 2016). Studies of Germ-free (GF) murines revealed important differences in the development and function of the brain; for instance, GF male mice have an overreactive HPA axis leading to increased concentrations of corticosterone and adrenocorticotropic hormone (ACTH) following a stressful stimulus (Sudo et al., 2004). GF murines also exhibit a far less effective immune response (Inagaki, Suzuki, Nomoto, & Yoshikai, 1996; Nardi et al., 1991).\n\n## Stress and Disordered Inflammation Can Result in Depression and Anxiety\nMany human and animal studies have shown that physiological pathways involving inflammatory and stress responses likely play an important role in the etiology of depression and anxiety (Bekhbat & Neigh, 2018; Benatti et al., 2016). The role of inflammation in depression has been documented in several studies (Kim, Na, Myint, & Leonard, 2016; Leonard, 2018; Miller & Raison, 2016). According to the “pathogen host hypothesis,” depression risk alleles promote pathogen–host defense interactions that were adaptive in an ancestral infection-ridden environment; public health measures that increased hygiene have rendered this pathogen host defense mainly maladaptive as it now contributes to depressive symptoms (Raison & Miller, 2013). Longitudinal studies reported that high levels of pro-inflammatory cytokines predict future risk for depression (Gimeno et al., 2009; van den Biggelaar et al., 2007). Further, experiments that initiate an immune response induce feelings of depression (Eisenberger et al., 2010; Harrison et al., 2009), while anti-inflammatory drugs further enhance recovery in patients (Mendlewicz et al., 2006). Inflammation has also been implicated in anxiety. Studies of clinically diagnosed anxious patients have reported increased levels of pro-inflammatory cytokines compared to healthy individuals (Duivis et al., 2013; O'Donovan et al., 2010). meccanically, stress-induced interleukin (IL)-6 activity has been shown to alter gene expression in monocytes and cause anxiety-like behavior in mice (Niraula, Witcher, Sheridan, & Godbout, 2019).\n\n## Sex Differences in Rates of Depression and Anxiety\nFemales show higher rates of anxiety and depression compared to males (Albert, Pruessner, & Newhouse, 2015; Songtachalert, Roomruangwong, Carvalho, Bourin, & Maes, 2018). This can in part be explained by sex hormones and their differential effects on gut microbiome as well as differences in immune cells (including microglia). Androgens seem to have anxiolytic properties whereas estrogens have been found to enhance HPA activity (Maeng & Milad, 2015; Turner-Cobb, Osborn, Silva, Keogh, & Jessop, 2010). Estrogen seems to have anti-inflammatory effects on microglia (Hanamsagar & Bilbo, 2016). The microglial cells themselves display sex-dependent differences, as they express more inflammation-related genes in adult female mice compared to males (Thion, Low, et al., 2018). Sex hormones also mediate sex differences in gut microbiome composition (Yurkovetskiy et al., 2013). Adult women have been shown to have fewer Bacteroidetes in their gut microbiome compared to age-matched men (Dominianni et al., 2015). Sexual dimorphism observed in a mouse model of Type I diabetes was attributed to differences in gut microbiome composition between males and females, differences that could be reversed in a GF environment or by castrating males (Yurkovetskiy et al., 2013). Traditional gender roles may play a part as caregiving is associated with increased stress in women (Mayor, 2015).\n\n## A Plausible Stress–Inflammation–Depression/Anxiety Disorder Pathway\nThe mechanisms that connect psychological stress to systemic and neural inflammation to mood disorders such as depression and anxiety are beginning to be uncovered. Psychological stress can increase intestinal permeability and allow bacterial lipopolysaccharides (endotoxins) to enter blood circulation (de Punder & Pruimboom, 2015). This peripheral inflammation then can spread to the central nervous system (CNS) and affect mental health by promoting neurotoxins and hindering neurotransmitters (Miller & Raison, 2016). Psychological stress has been shown to reliably induce pro-inflammatory cytokine production in murine models (Bailey et al., 2011; Zhang et al., 2015) and in human subjects (Baumeister et al., 2016; Maes et al., 1998). Discoveries revealing that the brain's immune system is heavily regulated have updated the notion that the brain is “immune privileged” (Galea, Bechmann, & Perry, 2007). Peripheral cytokines and pathogen-associated molecular patterns send inflammatory signals to the brain via afferent nerves or cytokines pass through permeable sections of the blood–brain barrier (Baganz & Blakely, 2013; Dantzer et al., 2008). Central neuroinflammation may last up to 40 times longer than the initial peripheral immune response (Qin et al., 2007). Activated microglia contribute to neural toxicity by releasing reactive nitrogen and oxygen species (Kacimi, Giffard, & Yenari, 2011). Pro-inflammatory cytokines also activate the enzyme IDO increasing the metabolism of Tryptophan (Trp) through the Kynurenine (Kyn) pathway (Dantzer et al., 2008; Schwarcz, Bruno, Muchowski, & Wu, 2012). Synthesis of monoamine neurotransmitters is hindered during neuroinflammation since pro-inflammatory cytokines damage essential enzyme co-factors (Miller & Raison, 2016).\n\n## Probiotics and Prebiotics Have Capacity to Improve Mental Health\nThe administration of probiotics and prebiotics has shown beneficial effects on the physiological stress response. Colonizing GF male mice with Bifidobacterium infantis normalizes their previously overreactive HPA axis in response to restraint stress (Sudo et al., 2004). Lactobacillus (L.) spp. probiotics ameliorate overreactive HPA axis in mice facing maternal separation stress (Gareau, Jury, MacQueen, Sherman, & Perdue, 2007). In healthy medical students, L. casei intake significantly alleviates academic stress-induced rises in cortisol levels (Kato-Kataoka et al., 2016). Probiotic and/or prebiotic administration can decrease intestinal permeability and thus inhibit endotoxemia. Lactobacillus farciminis suppresses restraint stress-induced hyperpermeability of the colon in mice (Ait-Belgnaoui et al., 2014). This has also been observed in humans; providing a probiotic fermented milk drink to patients with irritable bowel syndrome (IBS) decreases their small bowel permeability (Zeng et al., 2008). Probiotics can also limit the inflammatory response. Daily Lactobacillus helveticus NS8 intake improves IL-10 levels in adult rats facing chronic restraint stress in comparison to a selective serotonin reuptake inhibitor (SSRI) (Liang et al., 2015). IBS patients treated with B. infantis showed alleviation of symptoms and a balanced ratio of anti-inflammatory to pro-inflammatory cytokines (O'Mahony et al., 2005).\n\n## Gut Microbiome/Inflammation-Derived Mechanisms That Can Influence Depression and Anxiety\nGiven that stress and inflammation play direct and indirect roles in modulating brain function and that the gut microbiome affects both the stress and the immune system, it is useful to illuminate the mechanisms by which the gut microbiome may exert its antidepressive and anxiolytic effects. The gut microbiome can ferment host-indigestible carbohydrates into short-chain fatty acids (SCFAs) such as acetate, propionate, and butyrate (Miller & Wolin, 1996). SCFAs binder to colonic epithelial cells to promote cytokine production and bolster barrier integrity (Kim et al., 2013; Singh et al., 2010). Butyrate downregulates expression of pro-inflammatory mediators in macrophages during an immune response (Chang, Hao, Offermanns, & Medzhitov, 2014). The microbiome also metabolizes dietary Tryptophan into tryptophan catabolites (Trycats) (Gao et al., 2018), which are agonists of aryl hydrocarbon receptors (AHRs) that limit neuroinflammation (Rothhammer et al., 2016). Hosts use pattern recognition receptors (PRRs) like Toll-like receptors (TLRs) to sense microbial-associated molecular patterns (MAMPs) and maintain homeostasis (Chu & Mazmanian, 2013; Kawai & Akira, 2006). The vagus nerve also plays aVersatile role in sensing enteric conditions and modulating neural transmission; mice treated with B. longum show less anxious displays, an effect not observed in mice with a severed vagus nerve (Bercik et al., 2011). Vagal afferents are required for GABA modulation in the brain by probiotics (Perez-Burgos et al., 2013). Fecal microbiota transplants (FMT) also show promise; GF mice receiving FMT from patients with depression exhibited more depressive-like behaviors (Zheng et al., 2016).\n\n## Conclusions and Future Directions\nThe study of the gut microbiome–brain axis is revolutionizing our understanding of the mechanisms underlying nervous system disorders. Across the developed world, rates of depression and anxiety are increasing (Jorm et al., 2017). Modern urban lifestyles decrease exposure to microbes early in life and lead to an underdeveloped immune system prone to chronic inflammation (Rook, Raison, & Lowry, 2013). Urbanization is associated with decreased gut microbiome complexity (Segata, 2015), an indicator of poor microbiome health. Investments in treatments for mental conditions are likely to bring very high rates of return (Chisholm et al., 2016). Future studies must fully characterize the components of the gut microbiome–brain axis, specifically enteroendocrine cells that communicate with the vagus nerve. Electric vagus nerve stimulation has already been shown to significantly improve mental health outcomes in patients with treatment-resistant depression (Aaronson et al., 2017). Unanswered questions include sex-dependent differences in gut microbiome composition and the role of the microbiome during brain development. Understanding the gut microbiome influence at these early stages will have a significant impact on diagnosis and possible treatments."
-          }
+
+            "sections": {}
+           }
         },
         {
           "pmid": "35819136",
           
           "pmc_full_text": {
-            "pmc_id": "PMC9796968",
+
             "sections": {
               },
             "has_full_text": true,
@@ -1765,9 +1724,9 @@
         {
           "pmid": "31324280",
           
-          "pmc_id": "PMC9307042",
+
           "pmc_full_text": {
-            "pmc_id": "PMC9307042",
+
             "sections": {
              },
             "has_full_text": true,
@@ -1778,7 +1737,6 @@
           "pmid": "32406013",
           
           "pmc_full_text": {
-            "pmc_id": "PMC9731102",
             "sections": {
               }
            }
@@ -3121,11 +3079,7 @@
               "Insufficient consideration of confounding factors"
             ],
             "testability": "high",
-            "rationale": "Extends environmental considerations to seasonal variations with control for dietary confounders in depression microbiota research.",
-            "validation_results": {
-              "not_relevant": 356
-            },
-            "validated_by_articles": []
+            "rationale": "Extends environmental considerations to seasonal variations with control for dietary confounders in depression microbiota research."
           },
           {
             "query_id": "Q021",
