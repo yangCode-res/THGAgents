@@ -1,0 +1,3338 @@
+{
+  "name": "MedHypoGen-Bench",
+  "version": "3.0-multi-hypothesis",
+  "review_groups": [
+    {
+      "group_id": "RG_24aa1d0f",
+      "topic": "PD-1 PD-L1 resistance mechanism cancer immunotherapy",
+      "domain": "oncology",
+      "description": "PD-1/PD-L1免疫检查点治疗耐药机制",
+      "reviews": [
+        {
+          "pmid": "35471840",
+          "pmc_full_text": {
+            "pmc_id": "PMC9273105",
+            "sections": {
+              "Abstract": "",
+              "Tumor Immunity in the Microenvironment": "",
+              "Anti-PD Therapy as Normalization Cancer Immunotherapy": "",
+              "Primary Versus Acquired Resistance to Anti-PD Therapy": "",
+              "Mechanisms of Immune Resistance to Anti-PD Therapy": "",
+              "Lack of B7-H1 Expression in the Tumor Microenvironment": "",
+              "T Cell Exclusion": "",
+              "Antigen Loss Through Immunoediting": "",
+              "Coinhibitory Molecules in the Tumor Microenvironment": "",
+              "Secreted Immunosuppressive Factors": "",
+              "Metabolism and Anti-PD Therapy Resistance": "",
+              "Microbiota": "",
+              "Epigenetics and Anti-PD Therapy Resistance": "",
+              "Overcoming Anti-PD Therapy Resistance": "",
+              "Predictive and Prognostic Biomarkers": "",
+              "Combination Therapy": "",
+              "Normalization Cancer Immunotherapy": "",
+              "Conclusions": ""
+            }
+          }
+        },
+        {
+          "pmid": "36527888",
+          "pmc_full_text": {
+            "pmc_id": "10.1016/j.drup.2022.100907",
+            "sections": {
+              }
+          }
+        },
+        {
+          "pmid": "36177034",
+          "pmc_id": "PMC9513184",
+          "pmc_full_text": {
+            "pmc_id": "PMC9513184",
+            "sections": {
+             },
+            "full_text": "",
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "34539412",
+          "pmc_full_text": {
+            "pmc_id": "PMC8440961",
+            "sections": {
+              },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "35592338",
+          "pmc_id": "PMC9110638",
+          "pmc_full_text": {
+            "pmc_id": "PMC9110638",
+            "sections": {
+              },
+            "full_text": "",
+             "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "33854633",
+          "pmc_id": "PMC8040720",
+          "pmc_full_text": {
+              "title": "A snapshot of the PD-1/PD-L1 pathway",
+              "sections": {
+                }
+            }
+        },
+        {
+          "pmid": "33197221",
+          "pmc_id": "",
+          "pmc_full_text": {
+            "pmc_id": "PMC7814122",
+            "sections": {
+             }
+            }
+        },
+        {
+          "pmid": "35842707",
+          "pmc_id": "PMC9288068",
+          "pmc_full_text": {
+            "pmc_id": "PMC9288068",
+            "sections": {
+                },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "32001626",
+          "pmc_id": "PMC7789854",
+          "pmc_full_text": {
+              "title": "Neoadjuvant checkpoint blockade for cancer immunotherapy",
+               "sections": {
+                }
+            }
+        },
+        {
+          "pmid": "35392976",
+          "pmc_id": "PMC8991803",
+          "pmc_full_text": {
+            "title": "Improvement of the anticancer efficacy of PD-1/PD-L1 blockade via combination therapy and PD-L1 regulation",
+            "sections": {
+             }
+          }
+        },
+        {
+          "pmid": "36290818",
+          "pmc_id": "PMC9600738",
+          "pmc_full_text": {
+            "pmc_id": "PMC9600738",
+            "sections": {
+              },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "34580079",
+          "pmc_id": "PMC8957639",
+          "pmc_full_text": {
+          "title": "Tumor Immunology and Immunotherapy of Non-Small-Cell Lung Cancer",
+          "sections": {
+            }
+          }
+        },
+        {
+          "pmid": "35279217",
+          "pmc_id": "PMC8917703",
+          "pmc_full_text": {
+              "sections": {
+                }
+            }
+        },
+        {
+          "pmid": "32021257",
+          "pmc_id": "PMC6954840",
+          "pmc_full_text": {
+            "pmc_id": "PMC6954840",
+            "sections": {
+              },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "31063806",
+          "pmc_id": "",
+          "pmc_full_text": {
+            "sections": {
+              }
+          }
+        }
+      ],
+      "query": {
+        "query_id": "RG_24aa1d0f_Q001",
+        "topic": "PD-1 PD-L1 resistance mechanism cancer immunotherapy",
+        "hypotheses": [
+          {
+            "hypothesis_id": "H001",
+            "statement": "Tumor-associated macrophages (TAMs) expressing high levels of PD-L1 induce resistance to PD-1/PD-L1 blockade by promoting T cell exclusion through secretion of specific chemokines in the tumor microenvironment.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Tumor-associated macrophages (TAMs)",
+              "predicate": "induce resistance",
+              "object": "PD-1/PD-L1 blockade",
+              "context": "in solid tumors",
+              "key_terms": [
+                "TAMs",
+                "PD-L1",
+                "T cell exclusion",
+                "chemokines",
+                "tumor microenvironment"
+              ]
+            },
+            "source_reviews": [
+              "35471840",
+              "35592338"
+            ],
+            "source_evidence": [
+              "Limited understanding of how TAMs regulate PD-1/PD-L1 immunosuppression through specific mechanisms",
+              "The heterogeneity of resistance mechanisms is not fully understood"
+            ],
+            "testability": "high",
+            "rationale": "This addresses the gap in understanding specific TAM-mediated resistance mechanisms and could lead to targeted combination therapies.",
+            "validation_results": {
+              "not_relevant": 284,
+              "partially_supports": 31,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "39633050",
+              "38417530",
+              "39842432",
+              "40084746",
+              "38462037",
+              "39879585",
+              "40010765",
+              "40075237",
+              "41027276",
+              "39364290",
+              "39658657",
+              "39481380",
+              "39223929",
+              "37507218",
+              "39304772",
+              "39495239",
+              "38614095",
+              "40036156",
+              "38762193",
+              "38518770",
+              "39753537",
+              "39841088",
+              "39214650",
+              "37648786",
+              "40120139",
+              "38057662",
+              "39432781",
+              "40036693",
+              "38844817",
+              "39531951",
+              "39608215",
+              "37402168"
+            ]
+          },
+          {
+            "hypothesis_id": "H002",
+            "statement": "Patients with hematopoietic malignancies who develop resistance to anti-PD therapy have distinct genomic alterations in antigen presentation pathways compared to resistant solid tumor patients.",
+            "hypothesis_type": "association",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Patients with hematopoietic malignancies",
+              "predicate": "have distinct genomic alterations",
+              "object": "antigen presentation pathways",
+              "context": "after developing resistance to anti-PD therapy",
+              "key_terms": [
+                "hematopoietic malignancies",
+                "anti-PD therapy resistance",
+                "genomic alterations",
+                "antigen presentation",
+                "solid tumors"
+              ]
+            },
+            "source_reviews": [
+              "35471840",
+              "36177034"
+            ],
+            "source_evidence": [
+              "Insufficient data on resistance mechanisms in hematopoietic malignancies compared to solid tumors",
+              "Mechanisms of immune response and resistance to anti-PD-1/PD-L1 immunotherapy are not fully understood"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the knowledge gap in resistance mechanisms specific to hematopoietic malignancies and could inform tailored therapeutic approaches.",
+            "validation_results": {
+              "not_relevant": 315,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "39737927"
+            ]
+          },
+          {
+            "hypothesis_id": "H003",
+            "statement": "Combining PD-1/PD-L1 blockade with CCL2/CCR2 antagonists will overcome resistance in 'immune-cold' pancreatic tumors by reducing immunosuppressive macrophage infiltration and increasing CD8+ T cell infiltration.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "PD-1/PD-L1 blockade combined with CCL2/CCR2 antagonists",
+              "predicate": "will overcome resistance",
+              "object": "in 'immune-cold' pancreatic tumors",
+              "context": "by modulating macrophage and T cell infiltration",
+              "key_terms": [
+                "PD-1/PD-L1 blockade",
+                "CCL2/CCR2 antagonists",
+                "pancreatic cancer",
+                "immune-cold tumors",
+                "macrophage infiltration"
+              ]
+            },
+            "source_reviews": [
+              "35592338",
+              "36290818"
+            ],
+            "source_evidence": [
+              "The optimum therapeutic approach for targeting TAMs has not been identified",
+              "Limited understanding of how to convert 'immune-cold' pancreatic tumors to 'immune-hot'"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a novel combination therapy targeting TAMs to overcome resistance in pancreatic cancer, a major clinical challenge.",
+            "validation_results": {
+              "not_relevant": 305,
+              "partially_supports": 10,
+              "extends": 1
+            },
+            "validated_by_articles": [
+              "41249197",
+              "39546592",
+              "36630914",
+              "37271874",
+              "40053469",
+              "40846845",
+              "39718207",
+              "39514263",
+              "40067898",
+              "38719543",
+              "39154092"
+            ]
+          },
+          {
+            "hypothesis_id": "H004",
+            "statement": "A multi-omics signature combining tumor mutation burden, PD-L1 expression, and T cell receptor clonality will predict response to neoadjuvant PD-1/PD-L1 blockade in early-stage NSCLC with 85% accuracy.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Multi-omics signature",
+              "predicate": "will predict response",
+              "object": "to neoadjuvant PD-1/PD-L1 blockade",
+              "context": "in early-stage non-small cell lung cancer",
+              "key_terms": [
+                "multi-omics",
+                "tumor mutation burden",
+                "PD-L1 expression",
+                "T cell receptor clonality",
+                "neoadjuvant immunotherapy"
+              ]
+            },
+            "source_reviews": [
+              "32001626",
+              "34580079"
+            ],
+            "source_evidence": [
+              "Predictive biomarkers for neoadjuvant immunotherapy response are not established",
+              "Lack of reliable methods to identify patients most likely to benefit from immune checkpoint inhibitors"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the critical need for predictive biomarkers in neoadjuvant settings to optimize patient selection and treatment outcomes.",
+            "validation_results": {
+              "not_relevant": 306,
+              "partially_supports": 8,
+              "extends": 2
+            },
+            "validated_by_articles": [
+              "39909044",
+              "39615893",
+              "38703767",
+              "39653554",
+              "36948245",
+              "36869384",
+              "40440077",
+              "39566464",
+              "38734159",
+              "39134346"
+            ]
+          },
+          {
+            "hypothesis_id": "H005",
+            "statement": "Acquired resistance to PD-1/PD-L1 blockade in initially responsive MSI-H colorectal cancer patients is mediated by epigenetic silencing of neoantigen-encoding genes through DNA methylation.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Epigenetic silencing through DNA methylation",
+              "predicate": "mediates acquired resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in MSI-H colorectal cancer patients",
+              "key_terms": [
+                "acquired resistance",
+                "MSI-H colorectal cancer",
+                "DNA methylation",
+                "neoantigens",
+                "epigenetic silencing"
+              ]
+            },
+            "source_reviews": [
+              "35842707",
+              "33854633"
+            ],
+            "source_evidence": [
+              "Incomplete understanding of the mechanisms underlying acquired resistance to immunotherapy in initially responsive MSI-H patients",
+              "Mechanisms of acquired resistance to anti-PD-1/PD-L1 therapies"
+            ],
+            "testability": "high",
+            "rationale": "Identifies a specific molecular mechanism for acquired resistance in MSI-H cancers, which could be targeted with epigenetic therapies.",
+            "validation_results": {
+              "not_relevant": 305,
+              "partially_supports": 9,
+              "supports": 1,
+              "extends": 1
+            },
+            "validated_by_articles": [
+              "40577442",
+              "40541864",
+              "38281914",
+              "37130518",
+              "37235656",
+              "39695693",
+              "39632825",
+              "36870360",
+              "37106440",
+              "37964706",
+              "40513573"
+            ]
+          },
+          {
+            "hypothesis_id": "H006",
+            "statement": "Patients with liver metastases from MSS colorectal cancer will respond better to PD-1/PD-L1 blockade combined with anti-angiogenic therapy than those with lung metastases due to differential immune microenvironment composition.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Patients with liver metastases from MSS colorectal cancer",
+              "predicate": "will respond better",
+              "object": "to PD-1/PD-L1 blockade combined with anti-angiogenic therapy",
+              "context": "compared to patients with lung metastases",
+              "key_terms": [
+                "liver metastases",
+                "MSS colorectal cancer",
+                "PD-1/PD-L1 blockade",
+                "anti-angiogenic therapy",
+                "immune microenvironment"
+              ]
+            },
+            "source_reviews": [
+              "35842707"
+            ],
+            "source_evidence": [
+              "Unclear biological basis for differential response to ICB+TKI therapy based on metastatic site (liver vs. lung)"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the clinical observation of site-specific responses and could guide personalized treatment based on metastatic location.",
+            "validation_results": {
+              "not_relevant": 312,
+              "partially_supports": 4
+            },
+            "validated_by_articles": [
+              "39272096",
+              "37573354",
+              "39095323",
+              "40281576"
+            ]
+          },
+          {
+            "hypothesis_id": "H007",
+            "statement": "Co-occurrence of defects in antigen presentation and T cell exclusion mechanisms in the same patient predicts primary resistance to PD-1/PD-L1 blockade with 90% specificity.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Co-occurrence of antigen presentation defects and T cell exclusion",
+              "predicate": "predicts primary resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in cancer patients",
+              "key_terms": [
+                "antigen presentation defects",
+                "T cell exclusion",
+                "primary resistance",
+                "PD-1/PD-L1 blockade",
+                "co-occurrence"
+              ]
+            },
+            "source_reviews": [
+              "35471840",
+              "32021257"
+            ],
+            "source_evidence": [
+              "Limited understanding of how different resistance mechanisms interact or co-occur in patients",
+              "The specific mechanisms by which abnormalities in early steps of the cancer-immunity cycle cause resistance"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the heterogeneity of resistance mechanisms and could improve patient stratification by identifying multiple concurrent resistance pathways.",
+            "validation_results": {
+              "not_relevant": 313,
+              "partially_supports": 3
+            },
+            "validated_by_articles": [
+              "39385035",
+              "37311042",
+              "39909044"
+            ]
+          },
+          {
+            "hypothesis_id": "H008",
+            "statement": "In pancreatic cancer, cancer-associated fibroblasts expressing high levels of PD-L1 create physical barriers that prevent T cell infiltration and contribute to primary resistance to PD-1/PD-L1 blockade.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Cancer-associated fibroblasts expressing PD-L1",
+              "predicate": "create physical barriers",
+              "object": "that prevent T cell infiltration",
+              "context": "in pancreatic cancer",
+              "key_terms": [
+                "cancer-associated fibroblasts",
+                "PD-L1",
+                "T cell infiltration",
+                "pancreatic cancer",
+                "physical barriers"
+              ]
+            },
+            "source_reviews": [
+              "36290818",
+              "35279217"
+            ],
+            "source_evidence": [
+              "Mechanisms of primary resistance to immunotherapy in pancreatic cancer are not fully understood",
+              "Understanding how PD-L1 upregulation in the TME improves immune checkpoint blockade efficacy"
+            ],
+            "testability": "high",
+            "rationale": "Identifies a novel stromal cell-mediated resistance mechanism in pancreatic cancer, suggesting new therapeutic targets beyond tumor cells.",
+            "validation_results": {
+              "not_relevant": 304,
+              "supports": 2,
+              "partially_supports": 10
+            },
+            "validated_by_articles": [
+              "39545420",
+              "40439109",
+              "39546592",
+              "38703767",
+              "37341301",
+              "39871345",
+              "39828123",
+              "40338055",
+              "37824278",
+              "37607999",
+              "39350280",
+              "41105513"
+            ]
+          },
+          {
+            "hypothesis_id": "H009",
+            "statement": "Long-term responders to PD-1/PD-L1 blockade develop memory T cell populations with distinct epigenetic profiles that maintain anti-tumor immunity for at least 5 years post-treatment.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Long-term responders to PD-1/PD-L1 blockade",
+              "predicate": "develop memory T cell populations",
+              "object": "with distinct epigenetic profiles",
+              "context": "that maintain anti-tumor immunity",
+              "key_terms": [
+                "long-term responders",
+                "memory T cells",
+                "epigenetic profiles",
+                "PD-1/PD-L1 blockade",
+                "anti-tumor immunity"
+              ]
+            },
+            "source_reviews": [
+              "33197221",
+              "35392976"
+            ],
+            "source_evidence": [
+              "Limited knowledge about long-term immune system changes following ICI therapy",
+              "Long-term efficacy and safety profiles of ICI therapies"
+            ],
+            "testability": "medium",
+            "rationale": "Addresses the gap in understanding durable responses and could inform strategies to enhance long-term immunity in more patients.",
+            "validation_results": {
+              "not_relevant": 315,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "39889705"
+            ]
+          },
+          {
+            "hypothesis_id": "H010",
+            "statement": "Sequential administration of anti-CTLA-4 followed by anti-PD-1 will overcome resistance to PD-1/PD-L1 blockade in melanoma by first expanding T cell repertoire and then enhancing effector function.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Sequential administration of anti-CTLA-4 followed by anti-PD-1",
+              "predicate": "will overcome resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in melanoma patients",
+              "key_terms": [
+                "sequential administration",
+                "anti-CTLA-4",
+                "anti-PD-1",
+                "melanoma",
+                "T cell repertoire"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "32021257"
+            ],
+            "source_evidence": [
+              "Limited understanding of how to develop effective combination therapy regimens",
+              "Optimal combination therapies to overcome PD-1/PD-L1 blockade resistance need to be determined"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a novel sequencing strategy for combination immunotherapy based on mechanistic understanding of T cell biology.",
+            "validation_results": {
+              "not_relevant": 316
+            },
+            "validated_by_articles": []
+          },
+          {
+            "hypothesis_id": "H011",
+            "statement": "The ratio of M1 to M2 macrophages in tumor biopsies taken before treatment predicts response to PD-1/PD-L1 blockade in solid tumors with higher accuracy than PD-L1 expression alone.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Ratio of M1 to M2 macrophages in pre-treatment tumor biopsies",
+              "predicate": "predicts response",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in solid tumors",
+              "key_terms": [
+                "M1 macrophages",
+                "M2 macrophages",
+                "tumor biopsies",
+                "PD-1/PD-L1 blockade",
+                "predictive biomarker"
+              ]
+            },
+            "source_reviews": [
+              "35592338"
+            ],
+            "source_evidence": [
+              "More convincing clinical studies are needed to confirm the correlation of macrophage infiltration or phenotype with patient outcomes under anti-PD-1/PD-L1 therapy"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the need for better predictive biomarkers beyond PD-L1 expression and leverages macrophage biology for patient stratification.",
+            "validation_results": {
+              "not_relevant": 315,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "36394839"
+            ]
+          },
+          {
+            "hypothesis_id": "H012",
+            "statement": "Tumor cells resistant to PD-1/PD-L1 blockade upregulate alternative immune checkpoints (TIM-3, LAG-3, TIGIT) through IFN-γ signaling feedback loops that maintain T cell exhaustion.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Tumor cells resistant to PD-1/PD-L1 blockade",
+              "predicate": "upregulate alternative immune checkpoints",
+              "object": "through IFN-γ signaling feedback loops",
+              "context": "that maintain T cell exhaustion",
+              "key_terms": [
+                "PD-1/PD-L1 resistance",
+                "alternative immune checkpoints",
+                "TIM-3",
+                "LAG-3",
+                "TIGIT",
+                "IFN-γ signaling"
+              ]
+            },
+            "source_reviews": [
+              "34580079",
+              "35471840"
+            ],
+            "source_evidence": [
+              "Unknown additional immune checkpoints beyond PD-1/PD-L1 and CTLA-4 that could be targeted",
+              "The heterogeneity of resistance mechanisms is not fully understood"
+            ],
+            "testability": "high",
+            "rationale": "Identifies a compensatory resistance mechanism that could be targeted with next-generation combination therapies.",
+            "validation_results": {
+              "not_relevant": 287,
+              "extends": 3,
+              "partially_supports": 24,
+              "supports": 2
+            },
+            "validated_by_articles": [
+              "39809284",
+              "40050048",
+              "38762492",
+              "39168104",
+              "40925954",
+              "38914547",
+              "39909124",
+              "39660968",
+              "39546592",
+              "38687247",
+              "39349454",
+              "39223366",
+              "38215748",
+              "40530506",
+              "37147019",
+              "38900877",
+              "40816268",
+              "37857711",
+              "40203085",
+              "39591972",
+              "39318093",
+              "39030301",
+              "39567998",
+              "38181797",
+              "37392558",
+              "40295483",
+              "38556105",
+              "38684864",
+              "39503247"
+            ]
+          },
+          {
+            "hypothesis_id": "H013",
+            "statement": "Patients with high baseline levels of circulating myeloid-derived suppressor cells (MDSCs) will develop more severe immune-related adverse events from PD-1/PD-L1 blockade due to dysregulated immune activation.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Patients with high baseline levels of circulating MDSCs",
+              "predicate": "will develop more severe immune-related adverse events",
+              "object": "from PD-1/PD-L1 blockade",
+              "context": "due to dysregulated immune activation",
+              "key_terms": [
+                "myeloid-derived suppressor cells",
+                "immune-related adverse events",
+                "PD-1/PD-L1 blockade",
+                "circulating biomarkers",
+                "immune dysregulation"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "35392976"
+            ],
+            "source_evidence": [
+              "Incomplete understanding of safety issues and side effects of immunotherapy",
+              "Strategies to overcome treatment-related toxicities of immune checkpoint inhibitors"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the critical need to predict and manage immunotherapy toxicity, improving patient safety and treatment tolerability.",
+            "validation_results": {
+              "not_relevant": 308,
+              "supports": 2,
+              "partially_supports": 6
+            },
+            "validated_by_articles": [
+              "38750176",
+              "39068159",
+              "39464894",
+              "40179015",
+              "37651197",
+              "36599350",
+              "37865804",
+              "40323348"
+            ]
+          },
+          {
+            "hypothesis_id": "H014",
+            "statement": "Combining PD-1/PD-L1 blockade with epigenetic modulators (DNMT inhibitors, HDAC inhibitors) will reverse resistance in pMMR colorectal tumors by increasing tumor immunogenicity through neoantigen expression.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "PD-1/PD-L1 blockade combined with epigenetic modulators",
+              "predicate": "will reverse resistance",
+              "object": "in pMMR colorectal tumors",
+              "context": "by increasing tumor immunogenicity",
+              "key_terms": [
+                "PD-1/PD-L1 blockade",
+                "epigenetic modulators",
+                "pMMR colorectal cancer",
+                "neoantigen expression",
+                "tumor immunogenicity"
+              ]
+            },
+            "source_reviews": [
+              "35842707"
+            ],
+            "source_evidence": [
+              "Limited knowledge about why ICB therapy is ineffective in pMMR colorectal tumors despite attempts to enhance immunogenicity"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a novel combination strategy to overcome resistance in MSS/pMMR colorectal cancer, a major unmet clinical need.",
+            "validation_results": {
+              "not_relevant": 304,
+              "partially_supports": 10,
+              "supports": 2
+            },
+            "validated_by_articles": [
+              "39983717",
+              "38588411",
+              "40091844",
+              "40882030",
+              "39642889",
+              "40668890",
+              "39093981",
+              "39303724",
+              "39632825",
+              "38871975",
+              "39179622",
+              "40924501"
+            ]
+          },
+          {
+            "hypothesis_id": "H015",
+            "statement": "Spatial transcriptomics analysis of the tumor-immune interface will identify three distinct resistance patterns to PD-1/PD-L1 blockade based on cellular organization and signaling gradients.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Spatial transcriptomics analysis of tumor-immune interface",
+              "predicate": "will identify distinct resistance patterns",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "based on cellular organization and signaling gradients",
+              "key_terms": [
+                "spatial transcriptomics",
+                "tumor-immune interface",
+                "PD-1/PD-L1 blockade resistance",
+                "cellular organization",
+                "signaling gradients"
+              ]
+            },
+            "source_reviews": [
+              "34580079",
+              "32021257"
+            ],
+            "source_evidence": [
+              "Limited knowledge about tumor-immune microenvironment interactions in NSCLC",
+              "The impact of tumor microenvironment heterogeneity on PD-1/PD-L1 blockade resistance is not fully understood"
+            ],
+            "testability": "medium",
+            "rationale": "Leverages advanced spatial technologies to address microenvironment heterogeneity and identify novel resistance patterns for personalized therapy.",
+            "validation_results": {
+              "not_relevant": 310,
+              "supports": 2,
+              "partially_supports": 4
+            },
+            "validated_by_articles": [
+              "39909044",
+              "40402312",
+              "39658657",
+              "37723590",
+              "40083932",
+              "39608974"
+            ]
+          },
+          {
+            "hypothesis_id": "H016",
+            "statement": "Resistance to PD-1/PD-L1 blockade in NSCLC is mediated by tumor cell-intrinsic activation of WNT/β-catenin signaling that reduces T cell infiltration independent of PD-L1 expression.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Tumor cell-intrinsic activation of WNT/β-catenin signaling",
+              "predicate": "mediates resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in non-small cell lung cancer",
+              "key_terms": [
+                "WNT/β-catenin signaling",
+                "PD-1/PD-L1 blockade resistance",
+                "NSCLC",
+                "T cell infiltration",
+                "tumor cell-intrinsic"
+              ]
+            },
+            "source_reviews": [
+              "34580079",
+              "35471840"
+            ],
+            "source_evidence": [
+              "Mechanisms of primary and acquired resistance to immune checkpoint inhibitors in NSCLC are poorly understood",
+              "The reason for anti-PD therapy failure in most patients is less known"
+            ],
+            "testability": "high",
+            "rationale": "Identifies a specific signaling pathway driving resistance in NSCLC that could be targeted with combination therapies.",
+            "validation_results": {
+              "not_relevant": 302,
+              "supports": 2,
+              "partially_supports": 12
+            },
+            "validated_by_articles": [
+              "39920102",
+              "39585348",
+              "39694700",
+              "41249197",
+              "41271647",
+              "39577217",
+              "36595561",
+              "37802603",
+              "39691079",
+              "39509381",
+              "41028719",
+              "38520004",
+              "38148115",
+              "38207230"
+            ]
+          },
+          {
+            "hypothesis_id": "H017",
+            "statement": "Patients who develop hyperprogressive disease after PD-1/PD-L1 blockade have pre-existing expansions of regulatory T cells with specific T cell receptor sequences that become activated by treatment.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Patients who develop hyperprogressive disease after PD-1/PD-L1 blockade",
+              "predicate": "have pre-existing expansions of regulatory T cells",
+              "object": "with specific T cell receptor sequences",
+              "context": "that become activated by treatment",
+              "key_terms": [
+                "hyperprogressive disease",
+                "PD-1/PD-L1 blockade",
+                "regulatory T cells",
+                "T cell receptor sequences",
+                "treatment activation"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "35392976"
+            ],
+            "source_evidence": [
+              "Incomplete understanding of safety issues and side effects of immunotherapy",
+              "Better understanding of the requirements for an effective and safe antitumor immune response following ICI therapy"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the serious clinical problem of hyperprogression and could identify patients at risk before treatment initiation.",
+            "validation_results": {
+              "not_relevant": 314,
+              "partially_supports": 1,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "40203085",
+              "37205768"
+            ]
+          },
+          {
+            "hypothesis_id": "H018",
+            "statement": "Neoadjuvant PD-1/PD-L1 blockade followed by surgery and then adjuvant targeted therapy will improve outcomes in resectable NSCLC compared to adjuvant immunotherapy alone.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Neoadjuvant PD-1/PD-L1 blockade followed by surgery and adjuvant targeted therapy",
+              "predicate": "will improve outcomes",
+              "object": "in resectable NSCLC",
+              "context": "compared to adjuvant immunotherapy alone",
+              "key_terms": [
+                "neoadjuvant PD-1/PD-L1 blockade",
+                "resectable NSCLC",
+                "adjuvant targeted therapy",
+                "surgery",
+                "treatment sequencing"
+              ]
+            },
+            "source_reviews": [
+              "32001626",
+              "34580079"
+            ],
+            "source_evidence": [
+              "Optimal timing and duration of neoadjuvant immunotherapy relative to surgery need clarification",
+              "Insufficient understanding of optimal combination strategies for immune checkpoint inhibitors with other therapies"
+            ],
+            "testability": "high",
+            "rationale": "Addresses optimal treatment sequencing in early-stage NSCLC, potentially improving cure rates through multimodal approaches.",
+            "validation_results": {
+              "not_relevant": 314,
+              "partially_supports": 2
+            },
+            "validated_by_articles": [
+              "41027867",
+              "39013886"
+            ]
+          },
+          {
+            "hypothesis_id": "H019",
+            "statement": "Dynamic changes in circulating tumor DNA mutation burden during the first 8 weeks of PD-1/PD-L1 blockade treatment predict acquired resistance 6 months before clinical progression.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Dynamic changes in circulating tumor DNA mutation burden",
+              "predicate": "predict acquired resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "6 months before clinical progression",
+              "key_terms": [
+                "circulating tumor DNA",
+                "mutation burden",
+                "PD-1/PD-L1 blockade",
+                "acquired resistance",
+                "early prediction"
+              ]
+            },
+            "source_reviews": [
+              "33854633",
+              "36527888"
+            ],
+            "source_evidence": [
+              "Lack of reliable biomarkers to predict response to PD-1/PD-L1 blockade therapy",
+              "Mechanisms of acquired resistance to anti-PD-1/PD-L1 therapies"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a liquid biopsy approach for early detection of resistance, enabling timely intervention before clinical deterioration.",
+            "validation_results": {
+              "not_relevant": 316
+            },
+            "validated_by_articles": []
+          },
+          {
+            "hypothesis_id": "H020",
+            "statement": "Resistance to PD-1/PD-L1 blockade in melanoma is mediated by tumor cell adaptation through downregulation of MHC class I molecules via epigenetic mechanisms rather than genetic mutations.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Tumor cell adaptation through MHC class I downregulation",
+              "predicate": "mediates resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in melanoma",
+              "key_terms": [
+                "MHC class I downregulation",
+                "PD-1/PD-L1 blockade resistance",
+                "melanoma",
+                "epigenetic mechanisms",
+                "tumor adaptation"
+              ]
+            },
+            "source_reviews": [
+              "35471840",
+              "33197221"
+            ],
+            "source_evidence": [
+              "Investigate strategies to overcome resistance mechanisms such as loss of neoantigens, defects in antigen presentation",
+              "Limited understanding of mechanisms restricting durable responses in patients receiving ICIs"
+            ],
+            "testability": "high",
+            "rationale": "Identifies an epigenetic adaptation mechanism in melanoma that could be targeted to prevent or reverse resistance.",
+            "validation_results": {
+              "not_relevant": 311,
+              "partially_supports": 4,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "40080526",
+              "40324810",
+              "38330461",
+              "40091029",
+              "39545935"
+            ]
+          },
+          {
+            "hypothesis_id": "H021",
+            "statement": "Patients with specific gut microbiome compositions (high Bacteroides fragilis, low Faecalibacterium prausnitzii) have increased risk of developing colitis from PD-1/PD-L1 blockade due to enhanced mucosal immune activation.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Patients with specific gut microbiome compositions",
+              "predicate": "have increased risk",
+              "object": "of developing colitis from PD-1/PD-L1 blockade",
+              "context": "due to enhanced mucosal immune activation",
+              "key_terms": [
+                "gut microbiome",
+                "Bacteroides fragilis",
+                "Faecalibacterium prausnitzii",
+                "colitis",
+                "PD-1/PD-L1 blockade toxicity"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "35392976"
+            ],
+            "source_evidence": [
+              "Incomplete understanding of safety issues and side effects of immunotherapy",
+              "Mechanisms of immune-related toxicity from PD-1/PD-L1 blockade"
+            ],
+            "testability": "high",
+            "rationale": "Addresses immunotherapy toxicity through microbiome analysis, potentially enabling preventive strategies through microbiome modulation.",
+            "validation_results": {
+              "not_relevant": 312,
+              "extends": 1,
+              "partially_supports": 3
+            },
+            "validated_by_articles": [
+              "37138075",
+              "40048957",
+              "39168966",
+              "38194971"
+            ]
+          },
+          {
+            "hypothesis_id": "H022",
+            "statement": "Combining PD-1/PD-L1 blockade with oncolytic viruses will overcome resistance in 'immune-cold' tumors by inducing immunogenic cell death and creating de novo T cell responses against shared tumor antigens.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "PD-1/PD-L1 blockade combined with oncolytic viruses",
+              "predicate": "will overcome resistance",
+              "object": "in 'immune-cold' tumors",
+              "context": "by inducing immunogenic cell death",
+              "key_terms": [
+                "PD-1/PD-L1 blockade",
+                "oncolytic viruses",
+                "immune-cold tumors",
+                "immunogenic cell death",
+                "shared tumor antigens"
+              ]
+            },
+            "source_reviews": [
+              "36290818",
+              "35279217"
+            ],
+            "source_evidence": [
+              "Limited understanding of how to convert 'immune-cold' pancreatic tumors to 'immune-hot'",
+              "Development of combination therapies with other immunotherapies"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a novel combination strategy to convert immunologically inert tumors into responsive ones through viral immunotherapy.",
+            "validation_results": {
+              "not_relevant": 306,
+              "partially_supports": 6,
+              "extends": 2,
+              "supports": 2
+            },
+            "validated_by_articles": [
+              "39119813",
+              "40082438",
+              "40404207",
+              "39976981",
+              "40108464",
+              "40789740",
+              "38599661",
+              "40627813",
+              "40582210",
+              "38702343"
+            ]
+          },
+          {
+            "hypothesis_id": "H023",
+            "statement": "Radiomic features from baseline CT scans combined with circulating cytokine levels will predict response to PD-1/PD-L1 blockade in NSCLC with 80% accuracy without requiring tumor biopsy.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Radiomic features from baseline CT scans combined with circulating cytokine levels",
+              "predicate": "will predict response",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in non-small cell lung cancer",
+              "key_terms": [
+                "radiomics",
+                "CT scans",
+                "circulating cytokines",
+                "PD-1/PD-L1 blockade",
+                "non-invasive prediction"
+              ]
+            },
+            "source_reviews": [
+              "34580079",
+              "36527888"
+            ],
+            "source_evidence": [
+              "Lack of reliable methods to identify patients most likely to benefit from immune checkpoint inhibitors",
+              "Lack of reliable biomarkers to predict response to PD-1/PD-L1 blockade therapy"
+            ],
+            "testability": "high",
+            "rationale": "Offers a non-invasive approach to predict immunotherapy response, addressing practical limitations of tumor biopsies in clinical practice.",
+            "validation_results": {
+              "not_relevant": 315,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "39724105"
+            ]
+          },
+          {
+            "hypothesis_id": "H024",
+            "statement": "Resistance to PD-1/PD-L1 blockade in renal cell carcinoma is mediated by upregulation of alternative immune checkpoint VISTA on myeloid cells in the tumor microenvironment.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Upregulation of VISTA on myeloid cells",
+              "predicate": "mediates resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in renal cell carcinoma",
+              "key_terms": [
+                "VISTA",
+                "myeloid cells",
+                "PD-1/PD-L1 blockade resistance",
+                "renal cell carcinoma",
+                "tumor microenvironment"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "34580079"
+            ],
+            "source_evidence": [
+              "Unknown additional immune checkpoints beyond PD-1/PD-L1 and CTLA-4 that could be targeted",
+              "Mechanisms of drug resistance to PD-1/PD-L1 inhibitors are not fully understood"
+            ],
+            "testability": "high",
+            "rationale": "Identifies a novel resistance mechanism in RCC involving VISTA, suggesting new therapeutic targets for this cancer type.",
+            "validation_results": {
+              "not_relevant": 310,
+              "partially_supports": 6
+            },
+            "validated_by_articles": [
+              "39815258",
+              "39138571",
+              "36450387",
+              "36775874",
+              "38382068",
+              "39527690"
+            ]
+          },
+          {
+            "hypothesis_id": "H025",
+            "statement": "Patients with autoimmune diseases who receive PD-1/PD-L1 blockade have distinct T cell receptor repertoires that predict both response and risk of autoimmune flare-ups.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Patients with autoimmune diseases receiving PD-1/PD-L1 blockade",
+              "predicate": "have distinct T cell receptor repertoires",
+              "object": "that predict response and autoimmune flare-ups",
+              "context": "",
+              "key_terms": [
+                "autoimmune diseases",
+                "PD-1/PD-L1 blockade",
+                "T cell receptor repertoire",
+                "treatment response",
+                "autoimmune flare-ups"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "35392976"
+            ],
+            "source_evidence": [
+              "Incomplete understanding of safety issues and side effects of immunotherapy",
+              "Strategies to overcome treatment-related toxicities of immune checkpoint inhibitors"
+            ],
+            "testability": "high",
+            "rationale": "Addresses a critical clinical dilemma in treating cancer patients with pre-existing autoimmune conditions, balancing efficacy and toxicity risks.",
+            "validation_results": {
+              "not_relevant": 316
+            },
+            "validated_by_articles": []
+          },
+          {
+            "hypothesis_id": "H026",
+            "statement": "Intermittent dosing of PD-1/PD-L1 blockade (4 weeks on, 4 weeks off) will reduce acquired resistance in responsive patients by preventing T cell exhaustion while maintaining anti-tumor immunity.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Intermittent dosing of PD-1/PD-L1 blockade",
+              "predicate": "will reduce acquired resistance",
+              "object": "in responsive patients",
+              "context": "by preventing T cell exhaustion",
+              "key_terms": [
+                "intermittent dosing",
+                "PD-1/PD-L1 blockade",
+                "acquired resistance",
+                "T cell exhaustion",
+                "dosing schedule"
+              ]
+            },
+            "source_reviews": [
+              "33197221",
+              "35279217"
+            ],
+            "source_evidence": [
+              "Limited understanding of mechanisms restricting durable responses in patients receiving ICIs",
+              "Long-term effects and durability of PD-1/PD-L1 blockade responses"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a novel dosing strategy to prolong response duration by modulating T cell dynamics, potentially improving long-term outcomes.",
+            "validation_results": {
+              "not_relevant": 315,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "38563969"
+            ]
+          },
+          {
+            "hypothesis_id": "H027",
+            "statement": "Single-cell RNA sequencing of peripheral blood mononuclear cells before treatment identifies three immune cell states that predict primary resistance to PD-1/PD-L1 blockade across multiple cancer types.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Single-cell RNA sequencing of peripheral blood mononuclear cells",
+              "predicate": "identifies immune cell states",
+              "object": "that predict primary resistance to PD-1/PD-L1 blockade",
+              "context": "across multiple cancer types",
+              "key_terms": [
+                "single-cell RNA sequencing",
+                "peripheral blood mononuclear cells",
+                "PD-1/PD-L1 blockade resistance",
+                "immune cell states",
+                "multi-cancer prediction"
+              ]
+            },
+            "source_reviews": [
+              "36527888",
+              "36177034"
+            ],
+            "source_evidence": [
+              "Lack of comprehensive biomarkers to predict resistance before treatment initiation",
+              "Predictive models for PD-1/PD-L1 immune checkpoint inhibitor efficacy are lacking"
+            ],
+            "testability": "medium",
+            "rationale": "Leverages advanced single-cell technologies to develop a blood-based biomarker applicable across cancer types, addressing a major clinical need.",
+            "validation_results": {
+              "not_relevant": 314,
+              "partially_supports": 2
+            },
+            "validated_by_articles": [
+              "39602539",
+              "38319303"
+            ]
+          },
+          {
+            "hypothesis_id": "H028",
+            "statement": "Resistance to PD-1/PD-L1 blockade in hepatocellular carcinoma is mediated by lactate accumulation in the tumor microenvironment that inhibits T cell function through metabolic competition.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Lactate accumulation in tumor microenvironment",
+              "predicate": "mediates resistance",
+              "object": "to PD-1/PD-L1 blockade",
+              "context": "in hepatocellular carcinoma",
+              "key_terms": [
+                "lactate accumulation",
+                "tumor microenvironment",
+                "PD-1/PD-L1 blockade resistance",
+                "hepatocellular carcinoma",
+                "metabolic competition"
+              ]
+            },
+            "source_reviews": [
+              "36290818",
+              "35471840"
+            ],
+            "source_evidence": [
+              "Mechanisms of primary and secondary resistance to immunotherapy in pancreatic cancer are not fully understood",
+              "The heterogeneity of resistance mechanisms is not fully understood"
+            ],
+            "testability": "high",
+            "rationale": "Identifies a metabolic resistance mechanism in liver cancer that could be targeted with metabolic modulators in combination with immunotherapy.",
+            "validation_results": {
+              "not_relevant": 297,
+              "supports": 3,
+              "partially_supports": 16
+            },
+            "validated_by_articles": [
+              "38460167",
+              "39159723",
+              "39916327",
+              "41073389",
+              "38981044",
+              "37019619",
+              "38382467",
+              "39495239",
+              "38522774",
+              "38614095",
+              "39260826",
+              "39180916",
+              "40518290",
+              "41005293",
+              "39325640",
+              "39752904",
+              "36862086",
+              "40803319",
+              "36528023"
+            ]
+          },
+          {
+            "hypothesis_id": "H029",
+            "statement": "Elderly patients (≥75 years) have distinct age-related changes in T cell subsets that predict both reduced efficacy and increased toxicity from PD-1/PD-L1 blockade compared to younger patients.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Elderly patients (≥75 years)",
+              "predicate": "have distinct age-related changes in T cell subsets",
+              "object": "that predict reduced efficacy and increased toxicity",
+              "context": "from PD-1/PD-L1 blockade",
+              "key_terms": [
+                "elderly patients",
+                "age-related T cell changes",
+                "PD-1/PD-L1 blockade",
+                "treatment efficacy",
+                "toxicity prediction"
+              ]
+            },
+            "source_reviews": [
+              "34539412",
+              "35392976"
+            ],
+            "source_evidence": [
+              "Incomplete understanding of safety issues and side effects of immunotherapy",
+              "Patient selection criteria beyond biomarkers"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the growing clinical challenge of treating elderly cancer patients with immunotherapy, balancing benefits and risks in this population.",
+            "validation_results": {
+              "not_relevant": 315,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "39592880"
+            ]
+          },
+          {
+            "hypothesis_id": "H030",
+            "statement": "Local radiotherapy to a single metastatic site combined with PD-1/PD-L1 blockade will overcome systemic resistance by creating an 'in situ vaccine' effect that generates new T cell responses against unirradiated tumors.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Local radiotherapy combined with PD-1/PD-L1 blockade",
+              "predicate": "will overcome systemic resistance",
+              "object": "by creating an 'in situ vaccine' effect",
+              "context": "that generates new T cell responses",
+              "key_terms": [
+                "local radiotherapy",
+                "PD-1/PD-L1 blockade",
+                "in situ vaccine",
+                "abscopal effect",
+                "systemic resistance"
+              ]
+            },
+            "source_reviews": [
+              "35279217",
+              "32021257"
+            ],
+            "source_evidence": [
+              "Development of combination therapies with radiotherapy",
+              "Optimal combination therapies to overcome PD-1/PD-L1 blockade resistance need to be determined"
+            ],
+            "testability": "high",
+            "rationale": "Proposes a clinically feasible combination strategy leveraging radiotherapy's immunomodulatory effects to overcome resistance systemically.",
+            "validation_results": {
+              "not_relevant": 309,
+              "extends": 2,
+              "partially_supports": 5
+            },
+            "validated_by_articles": [
+              "40068595",
+              "40208070",
+              "40102596",
+              "40038780",
+              "39095323",
+              "38229577",
+              "38964333"
+            ]
+          }
+        ],
+          "queries": [
+    {
+    "query_id": "Q001",
+    "hypothesis_id": "H001",
+    "query_string": "In tumors where myeloid cells overexpress inhibitory ligands, how do these cells alter the spatial distribution of T cells in the microenvironment, and via which general class of soluble mediators is this pattern enforced?",
+    "query_type": "mechanism_exploration"
+    },
+    {
+    "query_id": "Q002",
+    "hypothesis_id": "H002",
+    "query_string": "Compared with solid tumors, in hematologic cancers resistant to PD-1/PD-L1 blockade, which broad functional signaling pathway is most frequently affected by somatic alterations?",
+    "query_type": "comparative_analysis"
+    },
+    {
+    "query_id": "Q003",
+    "hypothesis_id": "H003",
+    "query_string": "In immune-cold pancreatic tumors, how does combining PD-1/PD-L1 blockade with inhibition of a key monocyte-recruiting chemokine axis reshape the major cellular populations in the tumor microenvironment?",
+    "query_type": "combination_therapy_mechanism"
+    },
+    {
+    "query_id": "Q004",
+    "hypothesis_id": "H004",
+    "query_string": "For neoadjuvant PD-1/PD-L1 blockade in early-stage lung cancer, what type of multi-omics signature that integrates tumor features with T cell receptor repertoire characteristics is needed to achieve high predictive performance?",
+    "query_type": "biomarker_prediction"
+    },
+    {
+    "query_id": "Q005",
+    "hypothesis_id": "H005",
+    "query_string": "In MSI-H colorectal cancer that later becomes resistant to PD-1/PD-L1 blockade, which epigenetic process controlling neoantigen display, rather than new mutations in antigen-presentation genes, is mainly involved?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q006",
+    "hypothesis_id": "H006",
+    "query_string": "In metastatic colorectal cancer receiving PD-1/PD-L1 blockade plus anti-angiogenic therapy, how does the metastatic organ site shape response rates through organ-specific immune microenvironment differences?",
+    "query_type": "comparative_analysis"
+    },
+    {
+    "query_id": "Q007",
+    "hypothesis_id": "H007",
+    "query_string": "To very specifically predict primary resistance to PD-1/PD-L1 blockade, which combination of separate immune escape strategies must be detected together within the same patient?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q008",
+    "hypothesis_id": "H008",
+    "query_string": "In pancreatic cancer with T cell exclusion under PD-1/PD-L1 therapy, which stromal cell population, rather than tumor cells themselves, forms the main physical barrier while expressing high levels of checkpoint ligands?",
+    "query_type": "microenvironment_dynamics"
+    },
+    {
+    "query_id": "Q009",
+    "hypothesis_id": "H009",
+    "query_string": "Among patients who remain relapse-free long after PD-1/PD-L1 therapy, which stable molecular layer of immune memory—beyond simple T cell counts or short-term transcriptional states—is key for maintaining durable protection?",
+    "query_type": "durability_mechanism"
+    },
+    {
+    "query_id": "Q010",
+    "hypothesis_id": "H010",
+    "query_string": "In melanoma, why does giving anti-CTLA-4 before anti-PD-1 rely on two temporally separated phases of T cell dynamics, rather than concurrent dosing?",
+    "query_type": "therapy_optimization"
+    },
+    {
+    "query_id": "Q011",
+    "hypothesis_id": "H011",
+    "query_string": "For solid tumors, which quantitative measure describing the polarization state of tumor-infiltrating myeloid cells outperforms PD-L1 staining as a pre-treatment predictor of PD-1/PD-L1 blockade benefit?",
+    "query_type": "biomarker_prediction"
+    },
+    {
+    "query_id": "Q012",
+    "hypothesis_id": "H012",
+    "query_string": "During adaptive resistance to PD-1/PD-L1 blockade, which cytokine-driven signaling feedback loop is hijacked to induce compensatory upregulation of alternative inhibitory receptors on T cells?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q013",
+    "hypothesis_id": "H013",
+    "query_string": "How are baseline circulating myeloid-derived suppressor cell levels related to the later severity of immune-related adverse events in patients on PD-1/PD-L1 blockade?",
+    "query_type": "toxicity_risk"
+    },
+    {
+    "query_id": "Q014",
+    "hypothesis_id": "H014",
+    "query_string": "In pMMR colorectal tumors, which class of drugs synergizes with PD-1/PD-L1 blockade by reactivating silenced tumor antigens rather than by targeting angiogenesis or MAPK signaling?",
+    "query_type": "combination_therapy_mechanism"
+    },
+    {
+    "query_id": "Q015",
+    "hypothesis_id": "H015",
+    "query_string": "Using spatial transcriptomics at the tumor–immune interface, how many major resistance archetypes to PD-1/PD-L1 blockade can be resolved, and what is their conceptual basis?",
+    "query_type": "resistance_classification"
+    },
+    {
+    "query_id": "Q016",
+    "hypothesis_id": "H016",
+    "query_string": "In lung cancer with high PD-L1 expression but primary resistance, which oncogenic signaling pathway within tumor cells drives an immune-excluded microenvironment independent of PD-L1 levels?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q017",
+    "hypothesis_id": "H017",
+    "query_string": "In hyperprogressive disease under PD-1/PD-L1 blockade, which immunosuppressive T cell subset is aberrantly activated, and what specific T cell receptor feature marks the clones associated with this acceleration?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q018",
+    "hypothesis_id": "H018",
+    "query_string": "For resectable lung cancer treated with neoadjuvant PD-1/PD-L1 blockade followed by surgery, switching to which broad class of non-cytotoxic, non-immunotherapy drugs in the adjuvant phase improves outcomes over continued checkpoint blockade?",
+    "query_type": "therapy_optimization"
+    },
+    {
+    "query_id": "Q019",
+    "hypothesis_id": "H019",
+    "query_string": "Early during PD-1/PD-L1 treatment, which dynamic property of circulating tumor DNA in liquid biopsy serves as a molecular signal of impending resistance, and how long before radiographic progression does it typically appear?",
+    "query_type": "biomarker_prediction"
+    },
+    {
+    "query_id": "Q020",
+    "hypothesis_id": "H020",
+    "query_string": "In melanoma with preserved antigen-presentation genes but reduced MHC I expression after PD-1/PD-L1 therapy, which category of non-genetic regulatory mechanisms mediates this reversible loss?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q021",
+    "hypothesis_id": "H021",
+    "query_string": "For checkpoint-treated patients who develop severe colitis, which characteristic pattern of opposing abundance changes between two specific gut bacterial species reshapes intestinal immunity to promote toxicity?",
+    "query_type": "toxicity_risk"
+    },
+    {
+    "query_id": "Q022",
+    "hypothesis_id": "H022",
+    "query_string": "When PD-1/PD-L1 blockade is combined with oncolytic viruses in immune-cold tumors, which form of immunogenic cell death is most important, and does the benefit mainly arise from boosting existing T cells or from generating new T cell responses against tumor antigens?",
+    "query_type": "combination_therapy_mechanism"
+    },
+    {
+    "query_id": "Q023",
+    "hypothesis_id": "H023",
+    "query_string": "In non-small-cell lung cancer, beyond ctDNA-based metrics, predictive models that avoid tissue biopsies combine radiologic features with which class of circulating soluble immune mediators?",
+    "query_type": "biomarker_prediction"
+    },
+    {
+    "query_id": "Q024",
+    "hypothesis_id": "H024",
+    "query_string": "In renal cell carcinoma resistant to PD-1/PD-L1 blockade, which non-classical checkpoint molecule becomes upregulated, and on which tumor-infiltrating myeloid or stromal cell type does it mainly accumulate?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q025",
+    "hypothesis_id": "H025",
+    "query_string": "In patients with pre-existing autoimmune disease, which high-dimensional property of the T or B cell receptor repertoire can simultaneously forecast antitumor benefit and risk of autoimmune flare under PD-1/PD-L1 blockade?",
+    "query_type": "toxicity_risk"
+    },
+    {
+    "query_id": "Q026",
+    "hypothesis_id": "H026",
+    "query_string": "To counter acquired resistance without adding new drugs, which intermittent dosing pattern of PD-1/PD-L1 blockade (treatment vs. break length) has been proposed, and which dysfunctional T cell state is it intended to avoid reinforcing?",
+    "query_type": "dosing_strategy"
+    },
+    {
+    "query_id": "Q027",
+    "hypothesis_id": "H027",
+    "query_string": "Across cancers, single-cell RNA-seq of pre-treatment peripheral blood identifies how many composite cellular programs or states, and of what conceptual type, as the main predictors of non-response to PD-1/PD-L1 blockade?",
+    "query_type": "resistance_classification"
+    },
+    {
+    "query_id": "Q028",
+    "hypothesis_id": "H028",
+    "query_string": "In hepatocellular carcinoma, which immunosuppressive metabolic byproduct accumulates in the tumor microenvironment during PD-1/PD-L1 therapy, and by what mechanism does it impair effector T cell activity?",
+    "query_type": "resistance_mechanism"
+    },
+    {
+    "query_id": "Q029",
+    "hypothesis_id": "H029",
+    "query_string": "Among very old patients receiving PD-1/PD-L1 inhibitors, how do tumor control and toxicity differ from younger individuals, and which age-related change in immune cell composition best explains this pattern?",
+    "query_type": "comparative_analysis"
+    },
+    {
+    "query_id": "Q030",
+    "hypothesis_id": "H030",
+    "query_string": "When focal radiotherapy to one lesion is combined with PD-1/PD-L1 blockade, what conceptual role does the irradiated tumor take on in systemic immunity, and does the main benefit come from rescuing exhausted local TILs or from inducing new T cells targeting distant metastases?",
+    "query_type": "combination_therapy_mechanism"
+    }
+    ]
+      }
+    },
+    {
+      "group_id": "RG_4bf1bfbb",
+      "topic": "gut microbiome depression anxiety mental health",
+      "domain": "psychiatry",
+      "description": "肠道菌群与抑郁焦虑的关系",
+      "reviews": [
+        {
+          "pmid": "33271426",
+
+          "pmc_id": "",
+          "pmc_full_text": {
+                "sections": {
+                        }
+          }
+        },
+        {
+          "pmid": "35913583",
+
+          "pmc_full_text": {
+                "sections": {
+                         }
+        }
+        },
+        {
+          "pmid": "34524405",
+          "pmc_full_text": {
+            "sections": {
+               },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "31735529",
+          "pmc_full_text": {
+            "pmc_id": "PMC7103233",
+            "sections": {
+              }
+          }
+        },
+        {
+          "pmid": "35631252",
+          "pmc_id": "PMC9144835",
+          "pmc_full_text": {
+            "pmc_id": "PMC9144835",
+            "sections": {
+              },
+             "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "28757456",
+          
+          "pmc_full_text": {
+            "pmc_id": "10.1016/j.neubiorev.2017.07.003",
+            "sections": {
+              }
+          }
+        },
+        {
+          "pmid": "30415609",
+          
+          "pmc_full_text": {
+            "pmc_id": "PMC7814122",
+            "sections": {
+              }
+          }
+        },
+        {
+          "pmid": "32772900",
+          "pmc_id": "PMC7877977",
+          "pmc_full_text": {
+            "pmc_id": "10.1080/07853890.2020.1808239",
+            "sections": {
+               }
+          }
+        },
+        {
+          "pmid": "32899236",
+          
+          "pmc_full_text": {
+            "pmc_id": "PMC7504034",
+            "sections": {
+             },
+             "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "32149335",
+          "pmc_full_text": {
+            "pmc_id": "PMC7360462",
+            "sections": {
+              },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "36145184",
+          
+          "pmc_id": "PMC9505863",
+          "pmc_full_text": {
+            "pmc_id": "Nutrients_2022_14_3809",
+            "sections": {
+              }
+          }
+        },
+        {
+          "pmid": "31144383",
+          "pmc_id": "",
+          "pmc_full_text": {
+            "pmc_id": "PMC6658133",
+            "sections": {},
+            "full_text": "## Abstract\nThe study of the gut microbiome has increasingly revealed an important role in mod- ulating brain function and mental health. In this review, we underscore specific path- ways and mechanisms by which the gut microbiome can promote the development of mental disorders such as depression and anxiety. First, we review the involvement of the stress response and immune system activation in the development of depression and anxiety. Then, we examine germ-free murine models used to uncover the role of the gut microbiome in developing and modulating pertinent activity in the brain and the immune system. We also document multiple pathways by which stress-in- duced inflammation harms brain function and ultimately affects mental health, and review how probiotic and prebiotic treatments have shown to be beneficial. Lastly, we provide an overview of gut microbiome-derived compounds (short-chain fatty acids, tryptophan catabolites, microbial pattern recognition) and related mechanisms (vagal nerve activity and fecal microbiota transplants) involved in mediating the influ- ence of the gut microbiome to mental health. Overall, a picture of the gut microbiome playing a facilitating role between stress response, inflammation, and depression, and anxiety is emerging. Future research is needed to firmly establish the microbiome's causal role, to further elucidate the mechanisms by which gut microbes influence brain function and mental health, and to possibly develop treatments that improve mental health through microbiotic targets.\n\n## Introduction\nThe gut microbiome is the collection of microorganisms, mainly bacteria, that reside within the gastrointestinal (GI) tract in the human host (Backhed, Ley, Sonnenburg, Peterson, & Gordon, 2005). These microbes are estimated to outnumber human cells (Sender, Fuchs, & Milo, 2016) and have orders of magnitude more genes than their human host (Qin et al., 2010). The implications of the gut microbiome for human health are so vast that the Human Microbiome Project (HMP) has begun to analyze the human microbiome by using a variety of techniques (Proctor, 2016). One of the main goals of the HMP is to uncover a human microbiome reference genome that can be used to characterize dysbiosis and could allow the association of it with a variety of conditions, both normal and pathological (Proctor, 2016). The composition of the microbiome is affected by several factors including birth mode, infant feeding method, social and outdoor exposure, and antibiotic use (Bloomfield et al., 2016). A myriad of recent studies has revealed that the gut microbiome seems to be intimately interwoven with mental health. More specifically, both the function of the Central Nervous System and its stress-triggered dysfunction have emerged as targets of gut microbiome imbalance. The gut microbiome appears to significantly interact with the nervous system through the gut–brain axis, a communication channel between the central and enteric nervous system (Carabotti, Scirocco, Maselli, & Severi, 2015). Gut microbes thereby have the potential to influence brain activity and ultimately, mental health (Rogers et al., 2016). Efforts have been made to improve the microbiome composition using probiotics and prebiotics (Schrezenmeir & de Vrese, 2001). Mental health is a growing concern as rates of common mental disorders such as depression and anxiety have increased over the past several decades (Friedrich, 2017; Jorm, Patten, Brugha, & Mojtabai, 2017). Human and animal studies have provided increasing evidence suggesting a strong link between the gut microbiome composition and the development of mental disorders (Jiang et al., 2018; Rogers et al., 2016). Studies of Germ-free (GF) murines revealed important differences in the development and function of the brain; for instance, GF male mice have an overreactive HPA axis leading to increased concentrations of corticosterone and adrenocorticotropic hormone (ACTH) following a stressful stimulus (Sudo et al., 2004). GF murines also exhibit a far less effective immune response (Inagaki, Suzuki, Nomoto, & Yoshikai, 1996; Nardi et al., 1991).\n\n## Stress and Disordered Inflammation Can Result in Depression and Anxiety\nMany human and animal studies have shown that physiological pathways involving inflammatory and stress responses likely play an important role in the etiology of depression and anxiety (Bekhbat & Neigh, 2018; Benatti et al., 2016). The role of inflammation in depression has been documented in several studies (Kim, Na, Myint, & Leonard, 2016; Leonard, 2018; Miller & Raison, 2016). According to the “pathogen host hypothesis,” depression risk alleles promote pathogen–host defense interactions that were adaptive in an ancestral infection-ridden environment; public health measures that increased hygiene have rendered this pathogen host defense mainly maladaptive as it now contributes to depressive symptoms (Raison & Miller, 2013). Longitudinal studies reported that high levels of pro-inflammatory cytokines predict future risk for depression (Gimeno et al., 2009; van den Biggelaar et al., 2007). Further, experiments that initiate an immune response induce feelings of depression (Eisenberger et al., 2010; Harrison et al., 2009), while anti-inflammatory drugs further enhance recovery in patients (Mendlewicz et al., 2006). Inflammation has also been implicated in anxiety. Studies of clinically diagnosed anxious patients have reported increased levels of pro-inflammatory cytokines compared to healthy individuals (Duivis et al., 2013; O'Donovan et al., 2010). meccanically, stress-induced interleukin (IL)-6 activity has been shown to alter gene expression in monocytes and cause anxiety-like behavior in mice (Niraula, Witcher, Sheridan, & Godbout, 2019).\n\n## Sex Differences in Rates of Depression and Anxiety\nFemales show higher rates of anxiety and depression compared to males (Albert, Pruessner, & Newhouse, 2015; Songtachalert, Roomruangwong, Carvalho, Bourin, & Maes, 2018). This can in part be explained by sex hormones and their differential effects on gut microbiome as well as differences in immune cells (including microglia). Androgens seem to have anxiolytic properties whereas estrogens have been found to enhance HPA activity (Maeng & Milad, 2015; Turner-Cobb, Osborn, Silva, Keogh, & Jessop, 2010). Estrogen seems to have anti-inflammatory effects on microglia (Hanamsagar & Bilbo, 2016). The microglial cells themselves display sex-dependent differences, as they express more inflammation-related genes in adult female mice compared to males (Thion, Low, et al., 2018). Sex hormones also mediate sex differences in gut microbiome composition (Yurkovetskiy et al., 2013). Adult women have been shown to have fewer Bacteroidetes in their gut microbiome compared to age-matched men (Dominianni et al., 2015). Sexual dimorphism observed in a mouse model of Type I diabetes was attributed to differences in gut microbiome composition between males and females, differences that could be reversed in a GF environment or by castrating males (Yurkovetskiy et al., 2013). Traditional gender roles may play a part as caregiving is associated with increased stress in women (Mayor, 2015).\n\n## A Plausible Stress–Inflammation–Depression/Anxiety Disorder Pathway\nThe mechanisms that connect psychological stress to systemic and neural inflammation to mood disorders such as depression and anxiety are beginning to be uncovered. Psychological stress can increase intestinal permeability and allow bacterial lipopolysaccharides (endotoxins) to enter blood circulation (de Punder & Pruimboom, 2015). This peripheral inflammation then can spread to the central nervous system (CNS) and affect mental health by promoting neurotoxins and hindering neurotransmitters (Miller & Raison, 2016). Psychological stress has been shown to reliably induce pro-inflammatory cytokine production in murine models (Bailey et al., 2011; Zhang et al., 2015) and in human subjects (Baumeister et al., 2016; Maes et al., 1998). Discoveries revealing that the brain's immune system is heavily regulated have updated the notion that the brain is “immune privileged” (Galea, Bechmann, & Perry, 2007). Peripheral cytokines and pathogen-associated molecular patterns send inflammatory signals to the brain via afferent nerves or cytokines pass through permeable sections of the blood–brain barrier (Baganz & Blakely, 2013; Dantzer et al., 2008). Central neuroinflammation may last up to 40 times longer than the initial peripheral immune response (Qin et al., 2007). Activated microglia contribute to neural toxicity by releasing reactive nitrogen and oxygen species (Kacimi, Giffard, & Yenari, 2011). Pro-inflammatory cytokines also activate the enzyme IDO increasing the metabolism of Tryptophan (Trp) through the Kynurenine (Kyn) pathway (Dantzer et al., 2008; Schwarcz, Bruno, Muchowski, & Wu, 2012). Synthesis of monoamine neurotransmitters is hindered during neuroinflammation since pro-inflammatory cytokines damage essential enzyme co-factors (Miller & Raison, 2016).\n\n## Probiotics and Prebiotics Have Capacity to Improve Mental Health\nThe administration of probiotics and prebiotics has shown beneficial effects on the physiological stress response. Colonizing GF male mice with Bifidobacterium infantis normalizes their previously overreactive HPA axis in response to restraint stress (Sudo et al., 2004). Lactobacillus (L.) spp. probiotics ameliorate overreactive HPA axis in mice facing maternal separation stress (Gareau, Jury, MacQueen, Sherman, & Perdue, 2007). In healthy medical students, L. casei intake significantly alleviates academic stress-induced rises in cortisol levels (Kato-Kataoka et al., 2016). Probiotic and/or prebiotic administration can decrease intestinal permeability and thus inhibit endotoxemia. Lactobacillus farciminis suppresses restraint stress-induced hyperpermeability of the colon in mice (Ait-Belgnaoui et al., 2014). This has also been observed in humans; providing a probiotic fermented milk drink to patients with irritable bowel syndrome (IBS) decreases their small bowel permeability (Zeng et al., 2008). Probiotics can also limit the inflammatory response. Daily Lactobacillus helveticus NS8 intake improves IL-10 levels in adult rats facing chronic restraint stress in comparison to a selective serotonin reuptake inhibitor (SSRI) (Liang et al., 2015). IBS patients treated with B. infantis showed alleviation of symptoms and a balanced ratio of anti-inflammatory to pro-inflammatory cytokines (O'Mahony et al., 2005).\n\n## Gut Microbiome/Inflammation-Derived Mechanisms That Can Influence Depression and Anxiety\nGiven that stress and inflammation play direct and indirect roles in modulating brain function and that the gut microbiome affects both the stress and the immune system, it is useful to illuminate the mechanisms by which the gut microbiome may exert its antidepressive and anxiolytic effects. The gut microbiome can ferment host-indigestible carbohydrates into short-chain fatty acids (SCFAs) such as acetate, propionate, and butyrate (Miller & Wolin, 1996). SCFAs binder to colonic epithelial cells to promote cytokine production and bolster barrier integrity (Kim et al., 2013; Singh et al., 2010). Butyrate downregulates expression of pro-inflammatory mediators in macrophages during an immune response (Chang, Hao, Offermanns, & Medzhitov, 2014). The microbiome also metabolizes dietary Tryptophan into tryptophan catabolites (Trycats) (Gao et al., 2018), which are agonists of aryl hydrocarbon receptors (AHRs) that limit neuroinflammation (Rothhammer et al., 2016). Hosts use pattern recognition receptors (PRRs) like Toll-like receptors (TLRs) to sense microbial-associated molecular patterns (MAMPs) and maintain homeostasis (Chu & Mazmanian, 2013; Kawai & Akira, 2006). The vagus nerve also plays aVersatile role in sensing enteric conditions and modulating neural transmission; mice treated with B. longum show less anxious displays, an effect not observed in mice with a severed vagus nerve (Bercik et al., 2011). Vagal afferents are required for GABA modulation in the brain by probiotics (Perez-Burgos et al., 2013). Fecal microbiota transplants (FMT) also show promise; GF mice receiving FMT from patients with depression exhibited more depressive-like behaviors (Zheng et al., 2016).\n\n## Conclusions and Future Directions\nThe study of the gut microbiome–brain axis is revolutionizing our understanding of the mechanisms underlying nervous system disorders. Across the developed world, rates of depression and anxiety are increasing (Jorm et al., 2017). Modern urban lifestyles decrease exposure to microbes early in life and lead to an underdeveloped immune system prone to chronic inflammation (Rook, Raison, & Lowry, 2013). Urbanization is associated with decreased gut microbiome complexity (Segata, 2015), an indicator of poor microbiome health. Investments in treatments for mental conditions are likely to bring very high rates of return (Chisholm et al., 2016). Future studies must fully characterize the components of the gut microbiome–brain axis, specifically enteroendocrine cells that communicate with the vagus nerve. Electric vagus nerve stimulation has already been shown to significantly improve mental health outcomes in patients with treatment-resistant depression (Aaronson et al., 2017). Unanswered questions include sex-dependent differences in gut microbiome composition and the role of the microbiome during brain development. Understanding the gut microbiome influence at these early stages will have a significant impact on diagnosis and possible treatments."
+          }
+        },
+        {
+          "pmid": "35819136",
+          
+          "pmc_full_text": {
+            "pmc_id": "PMC9796968",
+            "sections": {
+              },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "31324280",
+          
+          "pmc_id": "PMC9307042",
+          "pmc_full_text": {
+            "pmc_id": "PMC9307042",
+            "sections": {
+             },
+            "has_full_text": true,
+            "fetch_error": ""
+          }
+        },
+        {
+          "pmid": "32406013",
+          
+          "pmc_full_text": {
+            "pmc_id": "PMC9731102",
+            "sections": {
+              }
+           }
+        }
+      ],
+      "query": {
+        "query_id": "RG_4bf1bfbb_Q001",
+        "topic": "gut microbiome depression anxiety mental health",
+        "hypotheses": [
+          {
+            "hypothesis_id": "H001",
+            "statement": "Specific depletion of butyrate-producing Coprococcus species in the gut microbiota directly reduces prefrontal cortex serotonin synthesis via impaired tryptophan metabolism, contributing to anxiety symptoms in generalized anxiety disorder patients.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Coprococcus species depletion",
+              "predicate": "reduces",
+              "object": "prefrontal cortex serotonin synthesis",
+              "context": "generalized anxiety disorder",
+              "key_terms": [
+                "Coprococcus",
+                "butyrate",
+                "tryptophan metabolism",
+                "serotonin",
+                "generalized anxiety disorder",
+                "gut-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "33271426",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Limited understanding of microorganism function in anxiety and depression",
+              "Inconsistencies in taxonomy assignment due to different reference databases"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the gap in understanding specific bacterial taxa functions and provides a mechanistic link between gut microbiota and neurotransmitter synthesis in anxiety disorders.",
+            "validation_results": {
+              "not_relevant": 321,
+              "partially_supports": 29,
+              "supports": 5,
+              "extends": 1
+            },
+            "validated_by_articles": [
+              "38582087",
+              "37386523",
+              "38198925",
+              "40390033",
+              "38978348",
+              "40058066",
+              "39303815",
+              "39471819",
+              "40090436",
+              "40057654",
+              "39921773",
+              "40257350",
+              "39148020",
+              "41106100",
+              "38421082",
+              "39214274",
+              "38972643",
+              "40253129",
+              "38428648",
+              "40898211",
+              "40664314",
+              "40450088",
+              "39706182",
+              "38871078",
+              "39910065",
+              "38329121",
+              "37872351",
+              "36089660",
+              "39351096",
+              "38754417",
+              "37295570",
+              "41052746",
+              "39316970",
+              "38601933",
+              "39716675"
+            ]
+          },
+          {
+            "hypothesis_id": "H002",
+            "statement": "A Mediterranean diet intervention for 12 weeks will significantly increase alpha diversity of gut microbiota and reduce depression scores in MDD patients compared to standard Western diet, with effects mediated by increased Faecalibacterium abundance and SCFA production.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Mediterranean diet intervention",
+              "predicate": "increases",
+              "object": "gut microbiota alpha diversity and reduces depression scores",
+              "context": "major depressive disorder patients",
+              "key_terms": [
+                "Mediterranean diet",
+                "alpha diversity",
+                "Faecalibacterium",
+                "short-chain fatty acids",
+                "major depressive disorder",
+                "dietary intervention"
+              ]
+            },
+            "source_reviews": [
+              "32149335",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Limited understanding of the nature of the relationship between diet and depression",
+              "Inadequate examination of gut microbiota function in dietary intervention studies"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific dietary intervention with mechanistic links to gut microbiota changes, addressing gaps in dietary research for depression.",
+            "validation_results": {
+              "not_relevant": 345,
+              "partially_supports": 11
+            },
+            "validated_by_articles": [
+              "38417224",
+              "38879123",
+              "39543781",
+              "37863362",
+              "37314797",
+              "36653035",
+              "35618633",
+              "38068763",
+              "40881230",
+              "39921773",
+              "36794003"
+            ]
+          },
+          {
+            "hypothesis_id": "H003",
+            "statement": "Elevated salivary cortisol levels in depression patients directly increase expression of Porphyromonas gingivalis virulence genes (rgpA, kgp) in the oral microbiome, creating a bidirectional oral-brain inflammatory loop.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Salivary cortisol elevation",
+              "predicate": "increases",
+              "object": "Porphyromonas gingivalis virulence gene expression",
+              "context": "depression patients",
+              "key_terms": [
+                "cortisol",
+                "Porphyromonas gingivalis",
+                "rgpA",
+                "kgp",
+                "oral microbiome",
+                "periodontal disease"
+              ]
+            },
+            "source_reviews": [
+              "35913583",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Mechanistic understanding of how stress markers like cortisol specifically modulate periodontal bacterial growth and virulence factor expression",
+              "Limited understanding of microorganism function in anxiety and depression"
+            ],
+            "testability": "high",
+            "rationale": "Novel synthesis connecting oral microbiome with mental health through specific molecular mechanisms, addressing the understudied oral-brain axis.",
+            "validation_results": {
+              "not_relevant": 349,
+              "partially_supports": 7
+            },
+            "validated_by_articles": [
+              "39482760",
+              "38763328",
+              "39562142",
+              "36796586",
+              "38507186",
+              "38428648",
+              "40727430"
+            ]
+          },
+          {
+            "hypothesis_id": "H004",
+            "statement": "Patients with antibiotic-induced depression will show significantly lower baseline gut microbial diversity and reduced Roseburia abundance compared to those without psychiatric side effects, serving as predictive biomarkers.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Low baseline gut microbial diversity and Roseburia abundance",
+              "predicate": "predicts",
+              "object": "antibiotic-induced depression",
+              "context": "patients receiving antibiotic treatment",
+              "key_terms": [
+                "antibiotic-induced depression",
+                "gut microbial diversity",
+                "Roseburia",
+                "biomarker",
+                "predictive",
+                "microbiota-gut-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "35819136",
+              "31324280"
+            ],
+            "source_evidence": [
+              "Lack of predictive biomarkers to identify patients at risk for antibiotic-induced psychiatric side effects",
+              "Limited evidence for psychobiotic effects on mental and neurological disorders"
+            ],
+            "testability": "high",
+            "rationale": "Addresses the critical need for predictive biomarkers in antibiotic psychiatry, potentially preventing adverse mental health effects.",
+            "validation_results": {
+              "not_relevant": 352,
+              "partially_supports": 3,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "39575307",
+              "39921773",
+              "40582635",
+              "40060029"
+            ]
+          },
+          {
+            "hypothesis_id": "H005",
+            "statement": "A standardized 8-week probiotic formulation containing Bifidobacterium longum and Lactobacillus rhamnosus will significantly reduce anxiety symptoms in PTSD patients by modulating vagal nerve activity and reducing systemic inflammation markers.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Bifidobacterium longum and Lactobacillus rhamnosus probiotic",
+              "predicate": "reduces",
+              "object": "anxiety symptoms",
+              "context": "PTSD patients",
+              "key_terms": [
+                "probiotic",
+                "Bifidobacterium longum",
+                "Lactobacillus rhamnosus",
+                "PTSD",
+                "vagal nerve",
+                "inflammation"
+              ]
+            },
+            "source_reviews": [
+              "32406013",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Determinants like the duration of treatment, dosage and interactions have not been thoroughly investigated",
+              "Insufficient studies to perform in-depth analyses of PTSD"
+            ],
+            "testability": "high",
+            "rationale": "Provides a specific, standardized intervention for an understudied anxiety disorder with clear mechanistic pathways.",
+            "validation_results": {
+              "not_relevant": 332,
+              "partially_supports": 23,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "38582087",
+              "37033942",
+              "38717445",
+              "37131071",
+              "40298641",
+              "39924003",
+              "38569396",
+              "37314797",
+              "36653035",
+              "35618633",
+              "37049546",
+              "38369490",
+              "38658619",
+              "40598488",
+              "40257350",
+              "39593298",
+              "39101469",
+              "39585236",
+              "39923539",
+              "39189588",
+              "40004979",
+              "39277768",
+              "39255901",
+              "38536703"
+            ]
+          },
+          {
+            "hypothesis_id": "H006",
+            "statement": "High refined carbohydrate consumption (>50% of daily calories) for 4 weeks will significantly increase Eggerthella abundance and decrease gut barrier integrity, leading to increased depression scores in healthy adults via elevated systemic LPS levels.",
+            "hypothesis_type": "association",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "High refined carbohydrate consumption",
+              "predicate": "increases",
+              "object": "Eggerthella abundance and depression scores",
+              "context": "healthy adults",
+              "key_terms": [
+                "refined carbohydrates",
+                "Eggerthella",
+                "gut barrier integrity",
+                "lipopolysaccharide",
+                "depression",
+                "diet-microbiota interaction"
+              ]
+            },
+            "source_reviews": [
+              "36145184",
+              "34524405"
+            ],
+            "source_evidence": [
+              "The precise pathways through which simple and refined carbohydrates create a vicious circle affecting mood categories need further investigation",
+              "Limited evaluation of gut microbial function versus composition"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific dietary threshold and mechanism linking carbohydrate intake to depression through identifiable microbiota changes.",
+            "validation_results": {
+              "not_relevant": 351,
+              "partially_supports": 5
+            },
+            "validated_by_articles": [
+              "36738999",
+              "38519181",
+              "39643213",
+              "39948027",
+              "39148685"
+            ]
+          },
+          {
+            "hypothesis_id": "H007",
+            "statement": "Maternal prenatal stress during weeks 20-24 of gestation specifically alters offspring gut microbiota composition at birth, predisposing to anxiety-like behaviors in adolescence through persistent HPA axis dysregulation.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Maternal prenatal stress (weeks 20-24)",
+              "predicate": "alters",
+              "object": "offspring gut microbiota and anxiety behaviors",
+              "context": "human pregnancy and offspring development",
+              "key_terms": [
+                "prenatal stress",
+                "gestational age",
+                "offspring gut microbiota",
+                "HPA axis",
+                "anxiety",
+                "developmental origins"
+              ]
+            },
+            "source_reviews": [
+              "28757456",
+              "33271426"
+            ],
+            "source_evidence": [
+              "No specific vulnerable period of gestation has been identified for prenatal stress effects",
+              "Causal relationships between gut microbiota changes and anxiety/depression development"
+            ],
+            "testability": "medium",
+            "rationale": "Identifies a specific vulnerable gestational period and links prenatal stress to gut microbiota-mediated mental health outcomes.",
+            "validation_results": {
+              "not_relevant": 343,
+              "partially_supports": 12,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "39182245",
+              "39259834",
+              "39419356",
+              "40169555",
+              "41052982",
+              "39793486",
+              "37932832",
+              "36897389",
+              "40008452",
+              "39931863",
+              "38851306",
+              "38773146",
+              "40976406"
+            ]
+          },
+          {
+            "hypothesis_id": "H008",
+            "statement": "Fermented kimchi consumption (100g daily) for 8 weeks will significantly improve depression symptoms in MDD patients by increasing gut microbial GABA production and reducing intestinal permeability more effectively than non-fermented cabbage.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Fermented kimchi consumption",
+              "predicate": "improves",
+              "object": "depression symptoms via GABA production",
+              "context": "major depressive disorder patients",
+              "key_terms": [
+                "fermented foods",
+                "kimchi",
+                "GABA",
+                "intestinal permeability",
+                "major depressive disorder",
+                "microbiome-gut-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "30415609",
+              "35631252"
+            ],
+            "source_evidence": [
+              "Lack of comprehensive human studies on fermented foods for treating or preventing depression and anxiety",
+              "Limited understanding of how gut microbiota-derived neurotransmitters directly influence the brain"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific fermented food with clear mechanistic pathways in a clinical population, addressing gaps in fermented food research.",
+            "validation_results": {
+              "not_relevant": 349,
+              "partially_supports": 7
+            },
+            "validated_by_articles": [
+              "37314797",
+              "35618633",
+              "39809266",
+              "39163908",
+              "40253129",
+              "40004979",
+              "38536703"
+            ]
+          },
+          {
+            "hypothesis_id": "H009",
+            "statement": "SSRI treatment in depression patients will significantly alter gut microbiota composition within 2 weeks, with increased Bifidobacterium abundance predicting better 8-week treatment response independent of dietary changes.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "SSRI-induced Bifidobacterium increase",
+              "predicate": "predicts",
+              "object": "depression treatment response",
+              "context": "SSRI-treated depression patients",
+              "key_terms": [
+                "SSRI",
+                "Bifidobacterium",
+                "treatment response",
+                "depression",
+                "gut microbiota",
+                "psychotropic medication"
+              ]
+            },
+            "source_reviews": [
+              "33271426",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Insufficient consideration of confounding factors like psychotropic medications",
+              "Limited understanding of how existing microbiota composition influences treatment effects"
+            ],
+            "testability": "high",
+            "rationale": "Addresses medication-microbiota interactions and provides a potential biomarker for personalized depression treatment.",
+            "validation_results": {
+              "not_relevant": 342,
+              "partially_supports": 11,
+              "supports": 3
+            },
+            "validated_by_articles": [
+              "39232392",
+              "39924003",
+              "40717539",
+              "39471819",
+              "37641148",
+              "39921773",
+              "38972643",
+              "39254274",
+              "40171943",
+              "38149413",
+              "38844534",
+              "36881351",
+              "39695082",
+              "39962083"
+            ]
+          },
+          {
+            "hypothesis_id": "H010",
+            "statement": "The oral microbiome of depression patients shows significantly higher abundance of Streptococcus mutans and lower diversity compared to healthy controls, correlating with both depression severity and periodontal disease progression.",
+            "hypothesis_type": "association",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Oral microbiome Streptococcus mutans abundance",
+              "predicate": "correlates with",
+              "object": "depression severity and periodontal disease",
+              "context": "depression patients",
+              "key_terms": [
+                "oral microbiome",
+                "Streptococcus mutans",
+                "depression severity",
+                "periodontal disease",
+                "microbiome diversity",
+                "oral-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "35913583",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Limited understanding of the role of the oral microbiome in mental illness compared to the gut-brain axis",
+              "Inconsistent findings regarding alpha and beta diversity in gut microbiota"
+            ],
+            "testability": "high",
+            "rationale": "Extends microbiome research beyond the gut to the oral cavity, exploring a novel axis in depression pathophysiology.",
+            "validation_results": {
+              "not_relevant": 351,
+              "partially_supports": 4,
+              "extends": 1
+            },
+            "validated_by_articles": [
+              "39039860",
+              "38763328",
+              "39562142",
+              "40727430",
+              "40983700"
+            ]
+          },
+          {
+            "hypothesis_id": "H011",
+            "statement": "Panax ginseng extract supplementation for 12 weeks will significantly reduce anxiety symptoms in generalized anxiety disorder patients by increasing gut Akkermansia muciniphila abundance and enhancing intestinal barrier function via tight junction protein upregulation.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Panax ginseng extract",
+              "predicate": "reduces",
+              "object": "anxiety symptoms via Akkermansia increase",
+              "context": "generalized anxiety disorder patients",
+              "key_terms": [
+                "Panax ginseng",
+                "Akkermansia muciniphila",
+                "tight junction proteins",
+                "generalized anxiety disorder",
+                "intestinal barrier",
+                "medicinal plants"
+              ]
+            },
+            "source_reviews": [
+              "35631252",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Lack of studies specifically designed to assess how herbal preparations affect MGBA-related targets or pathways",
+              "Limited studies specifically focusing on anxiety disorders compared to depression"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific medicinal plant with clear mechanistic pathways for an understudied anxiety disorder.",
+            "validation_results": {
+              "not_relevant": 344,
+              "partially_supports": 12
+            },
+            "validated_by_articles": [
+              "39782002",
+              "39303815",
+              "38996505",
+              "39515104",
+              "37905694",
+              "37722244",
+              "37277081",
+              "38641079",
+              "39413644",
+              "40836407",
+              "39342324",
+              "40254574"
+            ]
+          },
+          {
+            "hypothesis_id": "H012",
+            "statement": "Alcohol use disorder patients with comorbid depression will show significantly different gut microbiota beta diversity patterns compared to AUD patients without depression, specifically characterized by reduced Faecalibacterium and increased Enterobacteriaceae abundance.",
+            "hypothesis_type": "association",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Gut microbiota beta diversity patterns",
+              "predicate": "distinguish",
+              "object": "AUD patients with vs without depression",
+              "context": "alcohol use disorder",
+              "key_terms": [
+                "alcohol use disorder",
+                "beta diversity",
+                "Faecalibacterium",
+                "Enterobacteriaceae",
+                "comorbid depression",
+                "gut-liver-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "32899236",
+              "34524405"
+            ],
+            "source_evidence": [
+              "The association between alcohol addiction and the gut-liver-brain axis is unclear",
+              "Whether psychiatric disorders cluster differently from one another based on beta diversity measures"
+            ],
+            "testability": "high",
+            "rationale": "Addresses comorbidity patterns in AUD and extends beta diversity analysis to a specific substance use disorder context.",
+            "validation_results": {
+              "not_relevant": 350,
+              "partially_supports": 6
+            },
+            "validated_by_articles": [
+              "39508236",
+              "36280756",
+              "39578835",
+              "39488100",
+              "36754245",
+              "39585236"
+            ]
+          },
+          {
+            "hypothesis_id": "H013",
+            "statement": "A 6-month fecal microbiota transplantation from healthy donors to depression patients will significantly improve treatment-resistant depression symptoms more effectively than placebo, with effects sustained at 12-month follow-up.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Fecal microbiota transplantation",
+              "predicate": "improves",
+              "object": "treatment-resistant depression symptoms",
+              "context": "depression patients",
+              "key_terms": [
+                "fecal microbiota transplantation",
+                "treatment-resistant depression",
+                "long-term efficacy",
+                "microbiota-gut-brain axis",
+                "psychiatric intervention"
+              ]
+            },
+            "source_reviews": [
+              "32772900",
+              "31144383"
+            ],
+            "source_evidence": [
+              "Limited standardized protocols for gut microbiota management interventions in mental health disorders",
+              "The long-term efficacy and safety of microbiome-targeted interventions for mental health are not established"
+            ],
+            "testability": "high",
+            "rationale": "Tests a promising intervention with clear need for standardization and long-term efficacy data in treatment-resistant depression.",
+            "validation_results": {
+              "not_relevant": 347,
+              "partially_supports": 7,
+              "supports": 2
+            },
+            "validated_by_articles": [
+              "39996473",
+              "39701328",
+              "39773319",
+              "38663650",
+              "39921773",
+              "37414494",
+              "39214274",
+              "40171943",
+              "40664314"
+            ]
+          },
+          {
+            "hypothesis_id": "H014",
+            "statement": "Maternal high-fat diet during pregnancy will induce sex-specific gut microbiota alterations in offspring, with male offspring showing increased depression-like behaviors linked to reduced Lactobacillus abundance and female offspring showing anxiety-like behaviors linked to altered Bifidobacterium profiles.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Maternal high-fat diet",
+              "predicate": "induces",
+              "object": "sex-specific offspring microbiota and behavior changes",
+              "context": "pregnancy and offspring development",
+              "key_terms": [
+                "maternal diet",
+                "high-fat diet",
+                "sex differences",
+                "offspring gut microbiota",
+                "Lactobacillus",
+                "Bifidobacterium"
+              ]
+            },
+            "source_reviews": [
+              "28757456",
+              "32149335"
+            ],
+            "source_evidence": [
+              "Sex-specific differences in susceptibility and outcomes",
+              "Limited understanding of how existing microbiota composition and host phenotype influence effects"
+            ],
+            "testability": "high",
+            "rationale": "Novel synthesis of maternal nutrition, sex differences, and gut microbiota in developmental mental health programming.",
+            "validation_results": {
+              "not_relevant": 352,
+              "partially_supports": 4
+            },
+            "validated_by_articles": [
+              "38972900",
+              "38519181",
+              "39674560",
+              "40976406"
+            ]
+          },
+          {
+            "hypothesis_id": "H015",
+            "statement": "Minocycline treatment in schizophrenia patients will significantly improve negative symptoms by reducing gut Proteobacteria abundance and decreasing systemic inflammation markers more effectively in patients with baseline elevated CRP levels.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Minocycline treatment",
+              "predicate": "improves",
+              "object": "schizophrenia negative symptoms via Proteobacteria reduction",
+              "context": "schizophrenia patients with elevated CRP",
+              "key_terms": [
+                "minocycline",
+                "schizophrenia",
+                "Proteobacteria",
+                "C-reactive protein",
+                "negative symptoms",
+                "antibiotic psychiatry"
+              ]
+            },
+            "source_reviews": [
+              "35819136",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Limited understanding of why antibiotics can cause both positive and negative mental health effects",
+              "Insufficient verification of confounding effects of medication due to mixed patient populations"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific antibiotic with precision targeting based on inflammatory biomarkers in schizophrenia.",
+            "validation_results": {
+              "not_relevant": 351,
+              "partially_supports": 5
+            },
+            "validated_by_articles": [
+              "37863362",
+              "39103909",
+              "40131173",
+              "39676547",
+              "38294805"
+            ]
+          },
+          {
+            "hypothesis_id": "H016",
+            "statement": "The gut microbiota of bipolar disorder patients in manic phase will show significantly higher abundance of Eggerthella and lower abundance of Faecalibacterium compared to depressive phase, correlating with inflammatory cytokine levels.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Gut microbiota composition",
+              "predicate": "differs between",
+              "object": "bipolar disorder manic vs depressive phases",
+              "context": "bipolar disorder patients",
+              "key_terms": [
+                "bipolar disorder",
+                "manic phase",
+                "depressive phase",
+                "Eggerthella",
+                "Faecalibacterium",
+                "inflammatory cytokines"
+              ]
+            },
+            "source_reviews": [
+              "34524405",
+              "31144383"
+            ],
+            "source_evidence": [
+              "Whether psychiatric disorders cluster differently from one another based on beta diversity measures",
+              "The mechanisms by which gut microbes influence brain function and mental health require further elucidation"
+            ],
+            "testability": "high",
+            "rationale": "Addresses phase-specific microbiota changes in bipolar disorder, potentially informing mood state monitoring and treatment.",
+            "validation_results": {
+              "not_relevant": 355,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "38647010"
+            ]
+          },
+          {
+            "hypothesis_id": "H017",
+            "statement": "A combined intervention of cognitive behavioral therapy plus multispecies probiotic supplementation will reduce anxiety symptoms more effectively than CBT alone in social anxiety disorder patients, with effects mediated by increased gut microbial diversity and reduced cortisol awakening response.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "CBT plus probiotic combination",
+              "predicate": "reduces",
+              "object": "anxiety symptoms more effectively than CBT alone",
+              "context": "social anxiety disorder patients",
+              "key_terms": [
+                "cognitive behavioral therapy",
+                "multispecies probiotic",
+                "social anxiety disorder",
+                "cortisol awakening response",
+                "combined intervention",
+                "gut-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "32406013",
+              "32149335"
+            ],
+            "source_evidence": [
+              "Determinants like interactions have not been thoroughly investigated",
+              "Limited understanding of how diet interacts with other mental health determinants"
+            ],
+            "testability": "high",
+            "rationale": "Novel combination of psychological and microbiota-targeted interventions with clear mechanistic pathways for anxiety treatment.",
+            "validation_results": {
+              "not_relevant": 350,
+              "partially_supports": 6
+            },
+            "validated_by_articles": [
+              "38147649",
+              "39002809",
+              "36941248",
+              "38852762",
+              "37049546",
+              "38369490"
+            ]
+          },
+          {
+            "hypothesis_id": "H018",
+            "statement": "Urban vs rural residence significantly influences gut microbiota composition in depression patients, with urban residents showing reduced microbial diversity and increased inflammation-associated taxa that correlate with higher depression scores independent of diet.",
+            "hypothesis_type": "association",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Urban vs rural residence",
+              "predicate": "influences",
+              "object": "gut microbiota composition and depression severity",
+              "context": "depression patients",
+              "key_terms": [
+                "urban residence",
+                "rural residence",
+                "microbial diversity",
+                "depression severity",
+                "geographical variation",
+                "environmental factors"
+              ]
+            },
+            "source_reviews": [
+              "34524405",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Crude geographical division (Eastern vs Western) limits detection of regional microbiome variations",
+              "Insufficient consideration of confounding factors"
+            ],
+            "testability": "high",
+            "rationale": "Extends geographical considerations to urban-rural differences with control for dietary confounders in depression microbiota research.",
+            "validation_results": {
+              "not_relevant": 354,
+              "partially_supports": 2
+            },
+            "validated_by_articles": [
+              "40087795",
+              "39643213"
+            ]
+          },
+          {
+            "hypothesis_id": "H019",
+            "statement": "Nalmefene treatment in alcohol use disorder patients will significantly alter gut microbiota composition by increasing Akkermansia abundance and improving depression symptoms through enhanced gut barrier function and reduced systemic inflammation.",
+            "hypothesis_type": "mechanism",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Nalmefene treatment",
+              "predicate": "alters",
+              "object": "gut microbiota and improves depression symptoms",
+              "context": "alcohol use disorder patients",
+              "key_terms": [
+                "nalmefene",
+                "alcohol use disorder",
+                "Akkermansia",
+                "gut barrier function",
+                "depression",
+                "gut-liver-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "32899236",
+              "31144383"
+            ],
+            "source_evidence": [
+              "Mechanism of nalmefene action remains unclear",
+              "Insufficient understanding of how gut microbiota modifications specifically improve psychiatric symptoms in AUD"
+            ],
+            "testability": "high",
+            "rationale": "Elucidates the mechanism of an AUD medication through gut microbiota pathways, addressing a direct knowledge gap.",
+            "validation_results": {
+              "not_relevant": 355,
+              "partially_supports": 1
+            },
+            "validated_by_articles": [
+              "39468065"
+            ]
+          },
+          {
+            "hypothesis_id": "H020",
+            "statement": "Baseline gut microbial tryptophan metabolism capacity, measured by functional gene abundance, will predict response to SSRI treatment in depression patients better than microbial composition alone.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Gut microbial tryptophan metabolism capacity",
+              "predicate": "predicts",
+              "object": "SSRI treatment response",
+              "context": "depression patients",
+              "key_terms": [
+                "tryptophan metabolism",
+                "SSRI response",
+                "functional genes",
+                "depression",
+                "predictive biomarker",
+                "microbial function"
+              ]
+            },
+            "source_reviews": [
+              "34524405",
+              "32149335"
+            ],
+            "source_evidence": [
+              "Limited evaluation of gut microbial function versus composition",
+              "Poor understanding of mechanisms by which gut microbiota affect depression and anxiety symptoms"
+            ],
+            "testability": "high",
+            "rationale": "Shifts focus from microbial composition to function for predictive biomarkers in depression treatment.",
+            "validation_results": {
+              "not_relevant": 347,
+              "partially_supports": 8,
+              "supports": 1
+            },
+            "validated_by_articles": [
+              "38664490",
+              "38443364",
+              "37641148",
+              "39921773",
+              "38359796",
+              "39351096",
+              "36881351",
+              "39695082",
+              "39716675"
+            ]
+          },
+          {
+            "hypothesis_id": "H021",
+            "statement": "Regular consumption of traditional fermented foods (≥3 servings weekly) in adolescence is associated with 40% lower risk of developing anxiety disorders in early adulthood, mediated by sustained gut microbial diversity and reduced inflammatory markers.",
+            "hypothesis_type": "association",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Adolescent fermented food consumption",
+              "predicate": "reduces risk of",
+              "object": "anxiety disorders in early adulthood",
+              "context": "adolescent population",
+              "key_terms": [
+                "fermented foods",
+                "adolescence",
+                "anxiety disorders",
+                "early adulthood",
+                "microbial diversity",
+                "prevention"
+              ]
+            },
+            "source_reviews": [
+              "30415609",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Lack of long-term studies on fermented food consumption and mental health outcomes",
+              "Causal relationships between gut microbiota changes and anxiety/depression development"
+            ],
+            "testability": "medium",
+            "rationale": "Addresses long-term preventive effects of fermented foods during a critical developmental period for mental health.",
+            "validation_results": {
+              "not_relevant": 352,
+              "partially_supports": 4
+            },
+            "validated_by_articles": [
+              "39948027",
+              "39299595",
+              "36289300",
+              "40140473"
+            ]
+          },
+          {
+            "hypothesis_id": "H022",
+            "statement": "The oral-gut microbiome axis shows significant correlation in depression patients, with oral Porphyromonas gingivalis abundance positively correlating with gut Enterobacteriaceae abundance and both correlating with depression severity and systemic inflammation.",
+            "hypothesis_type": "association",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Oral Porphyromonas gingivalis and gut Enterobacteriaceae",
+              "predicate": "correlate with each other and with",
+              "object": "depression severity and inflammation",
+              "context": "depression patients",
+              "key_terms": [
+                "oral-gut axis",
+                "Porphyromonas gingivalis",
+                "Enterobacteriaceae",
+                "depression severity",
+                "systemic inflammation",
+                "multi-site microbiome"
+              ]
+            },
+            "source_reviews": [
+              "35913583",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Limited understanding of the role of the oral microbiome in mental illness",
+              "Inconsistent findings regarding alpha and beta diversity in gut microbiota"
+            ],
+            "testability": "high",
+            "rationale": "Novel investigation of cross-site microbiome interactions in depression pathophysiology.",
+            "validation_results": {
+              "not_relevant": 353,
+              "partially_supports": 3
+            },
+            "validated_by_articles": [
+              "38763328",
+              "38428648",
+              "39699251"
+            ]
+          },
+          {
+            "hypothesis_id": "H023",
+            "statement": "A personalized probiotic formulation based on individual baseline gut microbiota composition will reduce anxiety symptoms more effectively than a standard probiotic formulation in generalized anxiety disorder patients.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Personalized probiotic formulation",
+              "predicate": "reduces",
+              "object": "anxiety symptoms more effectively than standard probiotic",
+              "context": "generalized anxiety disorder patients",
+              "key_terms": [
+                "personalized probiotic",
+                "baseline microbiota",
+                "generalized anxiety disorder",
+                "precision psychiatry",
+                "microbiota-based intervention"
+              ]
+            },
+            "source_reviews": [
+              "32406013",
+              "32149335"
+            ],
+            "source_evidence": [
+              "Developing personalized nutrition approaches for mental health",
+              "Limited understanding of how existing microbiota composition influences effects"
+            ],
+            "testability": "high",
+            "rationale": "Tests personalized medicine approach in probiotic interventions for anxiety disorders.",
+            "validation_results": {
+              "not_relevant": 354,
+              "partially_supports": 2
+            },
+            "validated_by_articles": [
+              "37314797",
+              "39163908"
+            ]
+          },
+          {
+            "hypothesis_id": "H024",
+            "statement": "Maternal gut microbiota composition in third trimester significantly predicts postpartum depression risk, with low Bifidobacterium and high Eggerthella abundance associated with 3-fold increased risk independent of hormonal factors.",
+            "hypothesis_type": "predictive",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Maternal third trimester gut microbiota",
+              "predicate": "predicts",
+              "object": "postpartum depression risk",
+              "context": "pregnant women",
+              "key_terms": [
+                "maternal gut microbiota",
+                "third trimester",
+                "postpartum depression",
+                "Bifidobacterium",
+                "Eggerthella",
+                "pregnancy"
+              ]
+            },
+            "source_reviews": [
+              "28757456",
+              "34524405"
+            ],
+            "source_evidence": [
+              "Specificity of biological correlates to particular behavioral/mental health outcomes",
+              "Most studies had modest sample sizes, potentially underpowering analyses"
+            ],
+            "testability": "high",
+            "rationale": "Novel application of microbiota biomarkers for predicting postpartum depression risk during pregnancy.",
+            "validation_results": {
+              "not_relevant": 348,
+              "partially_supports": 8
+            },
+            "validated_by_articles": [
+              "38599497",
+              "39933221",
+              "38569396",
+              "41052982",
+              "39793486",
+              "40876656",
+              "36897389",
+              "39548431"
+            ]
+          },
+          {
+            "hypothesis_id": "H025",
+            "statement": "Intermittent fasting (16:8 protocol) for 8 weeks will significantly alter gut microbiota composition and reduce anxiety symptoms in healthy adults with subclinical anxiety, with effects mediated by increased Akkermansia abundance and improved metabolic parameters.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Intermittent fasting",
+              "predicate": "alters",
+              "object": "gut microbiota and reduces anxiety symptoms",
+              "context": "healthy adults with subclinical anxiety",
+              "key_terms": [
+                "intermittent fasting",
+                "Akkermansia",
+                "subclinical anxiety",
+                "metabolic parameters",
+                "dietary pattern",
+                "gut-brain axis"
+              ]
+            },
+            "source_reviews": [
+              "32149335",
+              "36145184"
+            ],
+            "source_evidence": [
+              "Lack of investigation into individual dietary components within whole dietary patterns",
+              "The specific mechanisms by which gut microbiota alterations affect mental health are not fully understood"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific dietary pattern with clear metabolic and microbiota effects for anxiety prevention.",
+            "validation_results": {
+              "not_relevant": 353,
+              "partially_supports": 3
+            },
+            "validated_by_articles": [
+              "37377643",
+              "40335161",
+              "41313780"
+            ]
+          },
+          {
+            "hypothesis_id": "H026",
+            "statement": "Gut microbiota composition shows significant differences between early-onset (<25 years) and late-onset (>50 years) depression, with early-onset characterized by reduced microbial diversity and increased inflammation-associated taxa.",
+            "hypothesis_type": "association",
+            "novelty_level": "implicit",
+            "entities": {
+              "subject": "Gut microbiota composition",
+              "predicate": "differs between",
+              "object": "early-onset and late-onset depression",
+              "context": "depression patients",
+              "key_terms": [
+                "early-onset depression",
+                "late-onset depression",
+                "microbial diversity",
+                "inflammatory taxa",
+                "age of onset",
+                "depression subtypes"
+              ]
+            },
+            "source_reviews": [
+              "34524405",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Whether psychiatric disorders cluster differently from one another based on beta diversity measures",
+              "Inconsistent findings regarding alpha and beta diversity"
+            ],
+            "testability": "high",
+            "rationale": "Addresses depression heterogeneity through age-of-onset subtypes with microbiota correlates.",
+            "validation_results": {
+              "not_relevant": 351,
+              "partially_supports": 5
+            },
+            "validated_by_articles": [
+              "38417224",
+              "39039860",
+              "40717539",
+              "39921773",
+              "40295565"
+            ]
+          },
+          {
+            "hypothesis_id": "H027",
+            "statement": "Schisandra chinensis extract supplementation for 12 weeks will improve cognitive function in depression patients with cognitive impairment by increasing gut microbial butyrate production and enhancing BDNF expression in the hippocampus.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Schisandra chinensis extract",
+              "predicate": "improves",
+              "object": "cognitive function via butyrate and BDNF",
+              "context": "depression patients with cognitive impairment",
+              "key_terms": [
+                "Schisandra chinensis",
+                "butyrate",
+                "brain-derived neurotrophic factor",
+                "cognitive function",
+                "depression",
+                "medicinal plants"
+              ]
+            },
+            "source_reviews": [
+              "35631252",
+              "32772900"
+            ],
+            "source_evidence": [
+              "Need for studies specifically assessing effects on MGBA-related pathways for most medicinal plants",
+              "Current biomedical treatments do not completely address the management of neurocognitive and mental health disorders"
+            ],
+            "testability": "high",
+            "rationale": "Tests a specific medicinal plant for cognitive symptoms in depression with clear mechanistic pathways.",
+            "validation_results": {
+              "not_relevant": 348,
+              "partially_supports": 8
+            },
+            "validated_by_articles": [
+              "39719433",
+              "39357281",
+              "40945252",
+              "37905694",
+              "39809031",
+              "38641079",
+              "40898211",
+              "39420319"
+            ]
+          },
+          {
+            "hypothesis_id": "H028",
+            "statement": "The gut microbiota of autism spectrum disorder adults shows significantly different composition compared to neurotypical adults, characterized by reduced microbial diversity and altered SCFA production profiles that correlate with anxiety symptoms.",
+            "hypothesis_type": "association",
+            "novelty_level": "direct_mention",
+            "entities": {
+              "subject": "Gut microbiota composition in ASD adults",
+              "predicate": "differs from",
+              "object": "neurotypical adults and correlates with anxiety",
+              "context": "autism spectrum disorder adults",
+              "key_terms": [
+                "autism spectrum disorder",
+                "adults",
+                "microbial diversity",
+                "short-chain fatty acids",
+                "anxiety",
+                "neurodevelopmental disorders"
+              ]
+            },
+            "source_reviews": [
+              "34524405",
+              "31324280"
+            ],
+            "source_evidence": [
+              "Lack of studies in adults with autism spectrum disorder for microbiota comparison in adulthood",
+              "Limited evidence for psychobiotic effects on mental and neurological disorders"
+            ],
+            "testability": "high",
+            "rationale": "Addresses a direct gap in ASD microbiota research focused on adult populations and comorbid anxiety.",
+            "validation_results": {
+              "not_relevant": 323,
+              "partially_supports": 16,
+              "supports": 17
+            },
+            "validated_by_articles": [
+              "38815661",
+              "38113884",
+              "37932832",
+              "37365313",
+              "39914389",
+              "39773319",
+              "39809266",
+              "38549163",
+              "40944170",
+              "39679617",
+              "40877409",
+              "40207766",
+              "41037658",
+              "38987054",
+              "38680985",
+              "39530303",
+              "40008452",
+              "39154337",
+              "38428648",
+              "39593298",
+              "37254223",
+              "40645945",
+              "38723603",
+              "40184961",
+              "38794639",
+              "39632378",
+              "38841895",
+              "38589690",
+              "39275319",
+              "40165714",
+              "39414875",
+              "38661344",
+              "38925359"
+            ]
+          },
+          {
+            "hypothesis_id": "H029",
+            "statement": "Combined antibiotic and probiotic treatment in depression patients will lead to greater microbial diversity restoration and better symptom improvement than antibiotic treatment alone, with effects dependent on timing and probiotic strain selection.",
+            "hypothesis_type": "therapeutic",
+            "novelty_level": "novel",
+            "entities": {
+              "subject": "Antibiotic plus probiotic combination",
+              "predicate": "leads to",
+              "object": "better microbial restoration and symptom improvement",
+              "context": "depression patients",
+              "key_terms": [
+                "antibiotic",
+                "probiotic",
+                "combination therapy",
+                "microbial diversity",
+                "depression treatment",
+                "timing"
+              ]
+            },
+            "source_reviews": [
+              "35819136",
+              "32406013"
+            ],
+            "source_evidence": [
+              "Limited understanding of why antibiotics can cause both positive and negative mental health effects",
+              "Determinants like timing and interactions have not been thoroughly investigated"
+            ],
+            "testability": "high",
+            "rationale": "Novel combination approach addressing antibiotic-induced microbiota disruption in depression treatment.",
+            "validation_results": {
+              "not_relevant": 349,
+              "partially_supports": 7
+            },
+            "validated_by_articles": [
+              "39468065",
+              "40554291",
+              "39121928",
+              "39623787",
+              "40582635",
+              "39585236",
+              "41029818"
+            ]
+          },
+          {
+            "hypothesis_id": "H030",
+            "statement": "Seasonal variation significantly influences gut microbiota composition in depression patients, with winter months associated with reduced microbial diversity and increased depression severity compared to summer months, independent of dietary changes.",
+            "hypothesis_type": "association",
+            "novelty_level": "extension",
+            "entities": {
+              "subject": "Seasonal variation",
+              "predicate": "influences",
+              "object": "gut microbiota composition and depression severity",
+              "context": "depression patients across seasons",
+              "key_terms": [
+                "seasonal variation",
+                "winter",
+                "summer",
+                "microbial diversity",
+                "depression severity",
+                "environmental factors"
+              ]
+            },
+            "source_reviews": [
+              "34524405",
+              "33271426"
+            ],
+            "source_evidence": [
+              "Crude geographical division limits detection of regional microbiome variations",
+              "Insufficient consideration of confounding factors"
+            ],
+            "testability": "high",
+            "rationale": "Extends environmental considerations to seasonal variations with control for dietary confounders in depression microbiota research.",
+            "validation_results": {
+              "not_relevant": 356
+            },
+            "validated_by_articles": []
+          },
+          {
+            "query_id": "Q021",
+            "hypothesis_id": "H021",
+            "query_string": "adolescent dietary patterns fermented foods long-term mental health outcomes anxiety disorders gut microbiome diversity inflammation longitudinal cohort"
+          },
+          {
+            "query_id": "Q022",
+            "hypothesis_id": "H022",
+            "query_string": "oral gut microbiome axis depression multi-site microbiome correlation periodontal pathogens systemic inflammation clinical association study"
+          },
+          {
+            "query_id": "Q023",
+            "hypothesis_id": "H023",
+            "query_string": "personalized probiotic intervention baseline gut microbiota stratification anxiety disorder randomized controlled trial precision psychiatry"
+          },
+          {
+            "query_id": "Q024",
+            "hypothesis_id": "H024",
+            "query_string": "maternal gut microbiota during pregnancy predictors postpartum depression third trimester microbiome biomarkers independent of hormonal factors"
+          },
+          {
+            "query_id": "Q025",
+            "hypothesis_id": "H025",
+            "query_string": "intermittent fasting protocol gut microbiome changes anxiety symptoms metabolic health Akkermansia controlled intervention study"
+          },
+          {
+            "query_id": "Q026",
+            "hypothesis_id": "H026",
+            "query_string": "age of onset depression gut microbiome differences early onset versus late onset inflammatory taxa microbial diversity phenotype stratification"
+          },
+          {
+            "query_id": "Q027",
+            "hypothesis_id": "H027",
+            "query_string": "medicinal plant supplementation cognitive impairment depression gut microbiota butyrate production BDNF hippocampus mechanism study"
+          },
+          {
+            "query_id": "Q028",
+            "hypothesis_id": "H028",
+            "query_string": "adult autism spectrum disorder gut microbiome composition anxiety symptoms short chain fatty acids microbiota brain interaction"
+          },
+          {
+            "query_id": "Q029",
+            "hypothesis_id": "H029",
+            "query_string": "antibiotic induced gut dysbiosis depression probiotic co-administration microbiota recovery timing strain specificity clinical outcomes"
+          },
+          {
+            "query_id": "Q030",
+            "hypothesis_id": "H030",
+            "query_string": "seasonal variation gut microbiome depression severity winter summer environmental effects independent of diet longitudinal analysis"
+          }
+        ],
+    "queries": [
+      {
+      "query_id": "Q001",
+      "hypothesis_id": "H001",
+      "query_string": "Investigate how alterations in gut microbial communities that produce key short-chain fatty acids are related to generalized anxiety disorder, focusing on whether changes in these microbes can influence neurotransmitter synthesis and anxiety-related behavior."
+      },
+      {
+      "query_id": "Q002",
+      "hypothesis_id": "H002",
+      "query_string": "Examine how shifting from a Western-style diet to a whole-food, plant-rich dietary pattern in Major Depressive Disorder patients affects gut microbiota and depressive symptoms, and whether specific gut microbial changes and their metabolic outputs mediate clinical improvement."
+      },
+      {
+      "query_id": "Q003",
+      "hypothesis_id": "H003",
+      "query_string": "Explore how stress-related elevations in salivary cortisol in depression patients reshape the oral microbiome and contribute to a self-perpetuating inflammatory loop between the mouth and the brain, including which microbial stress responses might be involved."
+      },
+      {
+      "query_id": "Q004",
+      "hypothesis_id": "H004",
+      "query_string": "Assess whether baseline gut microbiome configurations can predict which individuals are more likely to develop depressive symptoms after antibiotic exposure, beyond simple measures of overall microbial diversity."
+      },
+      {
+      "query_id": "Q005",
+      "hypothesis_id": "H005",
+      "query_string": "Investigate how a defined multi-strain probiotic intervention in PTSD patients modulates gut–brain communication, particularly through combined changes in autonomic regulation and immune signaling, and how these changes relate to anxiety symptom reduction."
+      },
+      {
+      "query_id": "Q006",
+      "hypothesis_id": "H006",
+      "query_string": "Examine how short-term consumption of diets dominated by refined carbohydrates affects gut barrier function, systemic molecular mediators, and subsequent changes in mood or depressive symptoms."
+      },
+      {
+      "query_id": "Q007",
+      "hypothesis_id": "H007",
+      "query_string": "Explore whether there is a sensitive gestational window during which maternal psychological stress has particularly strong effects on the newborn’s biological signatures and later anxiety-like behavior via long-term neuroendocrine dysregulation."
+      },
+      {
+      "query_id": "Q008",
+      "hypothesis_id": "H008",
+      "query_string": "Compare the impact of fermented versus non-fermented vegetable-based interventions in Major Depressive Disorder, focusing on how fermentation-associated microbial metabolites and gut barrier changes may jointly mediate antidepressant effects."
+      },
+      {
+      "query_id": "Q009",
+      "hypothesis_id": "H009",
+      "query_string": "Investigate whether early shifts in gut microbiome composition during the initial phase of SSRI treatment can serve as predictors of later antidepressant response, and to what extent these microbiome-based signals are robust to differences in dietary habits."
+      },
+      {
+      "query_id": "Q010",
+      "hypothesis_id": "H010",
+      "query_string": "Characterize how the oral microbiome differs between depression patients and healthy controls, and determine whether specific patterns in oral microbial composition and diversity track with both depressive symptom severity and periodontal disease."
+      },
+      {
+      "query_id": "Q011",
+      "hypothesis_id": "H011",
+      "query_string": "Assess how a standardized herbal intervention for generalized anxiety disorder influences gut microbiome composition and intestinal barrier structure, and how these gut-level changes relate to anxiety symptom improvement."
+      },
+      {
+      "query_id": "Q012",
+      "hypothesis_id": "H012",
+      "query_string": "Compare gut microbiome profiles between Alcohol Use Disorder patients with and without comorbid depression to identify a depression-associated microbial signature within this population, focusing on shifts between health-associated and inflammation-linked taxa."
+      },
+      {
+      "query_id": "Q013",
+      "hypothesis_id": "H013",
+      "query_string": "Investigate how fecal microbiota transplantation from healthy donors affects symptom trajectories in treatment-resistant depression compared to placebo, and determine at which follow-up time points the antidepressant benefits emerge and how long they persist."
+      },
+      {
+      "query_id": "Q014",
+      "hypothesis_id": "H014",
+      "query_string": "Examine how maternal high-fat diet exposure programs sex-specific gut microbiome alterations in offspring and leads to different emotional behavior phenotypes in males versus females."
+      },
+      {
+      "query_id": "Q015",
+      "hypothesis_id": "H015",
+      "query_string": "Explore how adjunctive antibiotic therapy in schizophrenia patients influences gut microbiome composition and systemic inflammation, and whether specific baseline inflammatory states identify individuals who benefit most in terms of negative symptom improvement."
+      },
+      {
+      "query_id": "Q016",
+      "hypothesis_id": "H016",
+      "query_string": "Characterize how gut microbiome composition changes between manic and depressive episodes in bipolar disorder, and determine how these phase-specific microbial patterns relate to systemic immune or inflammatory markers."
+      },
+      {
+      "query_id": "Q017",
+      "hypothesis_id": "H017",
+      "query_string": "Assess whether adding multispecies probiotics to cognitive behavioral therapy in social anxiety disorder yields superior symptom reduction compared to CBT alone, and what roles gut microbial community organization and stress-related endocrine rhythms play in mediating this effect."
+      },
+      {
+      "query_id": "Q018",
+      "hypothesis_id": "H018",
+      "query_string": "Investigate how urban versus rural living environments shape gut microbiome features in depression patients, focusing on enrichment of taxa linked to inflammatory potential and testing whether the microbiota–symptom association depends on dietary patterns."
+      },
+      {
+      "query_id": "Q019",
+      "hypothesis_id": "H019",
+      "query_string": "Examine how a pharmacological treatment for Alcohol Use Disorder influences gut microbiome composition, gut barrier function, inflammatory markers, and co-occurring depressive symptoms, to clarify its effects on the gut–brain axis."
+      },
+      {
+      "query_id": "Q020",
+      "hypothesis_id": "H020",
+      "query_string": "Evaluate whether functional readouts of gut microbiome metabolic capacity—particularly along specific amino acid–related pathways—predict antidepressant response to SSRIs more accurately than taxonomic composition alone, and compare different measurement approaches."
+      },
+      {
+      "query_id": "Q021",
+      "hypothesis_id": "H021",
+      "query_string": "Analyze whether habitual intake of traditional fermented foods during adolescence is associated with later risk of anxiety disorders, and if a protective effect exists, to what extent it can be explained by long-term changes in gut microbial ecology and immune markers."
+      },
+      {
+      "query_id": "Q022",
+      "hypothesis_id": "H022",
+      "query_string": "Investigate coupled alterations in oral and gut microbiomes in depression patients, identifying how the co-elevation of specific oral pathogens and gut bacterial groups relates to systemic inflammatory burden and depression severity."
+      },
+      {
+      "query_id": "Q023",
+      "hypothesis_id": "H023",
+      "query_string": "Compare the effectiveness of microbiome-tailored versus standard probiotic formulations for reducing anxiety symptoms in generalized anxiety disorder, and discuss why inter-individual variability in baseline gut microbiota might favor personalized approaches."
+      },
+      {
+      "query_id": "Q024",
+      "hypothesis_id": "H024",
+      "query_string": "Assess whether specific patterns of maternal gut microbiota composition in late pregnancy can predict postpartum depression risk, focusing on combinations of depleted and enriched genera, and test if this relationship remains after accounting for hormonal changes."
+      },
+      {
+      "query_id": "Q025",
+      "hypothesis_id": "H025",
+      "query_string": "Investigate how an 8-week intermittent fasting regimen affects gut microbiota composition and metabolic health in adults with subclinical anxiety, and whether enrichment of key bacterial groups plus metabolic improvements jointly mediate anxiety reduction."
+      },
+      {
+      "query_id": "Q026",
+      "hypothesis_id": "H026",
+      "query_string": "Compare gut microbiome profiles between early-onset and late-onset depression to determine whether younger patients show distinct features in microbial diversity and enrichment of functionally specialized taxa, particularly those related to immune interactions."
+      },
+      {
+      "query_id": "Q027",
+      "hypothesis_id": "H027",
+      "query_string": "Investigate the clinical and mechanistic effects of a botanical extract intervention in depression patients with cognitive impairment, focusing on changes in specific gut microbial metabolites along the gut–brain axis and corresponding neurotrophic signaling in memory-related brain regions."
+      },
+      {
+      "query_id": "Q028",
+      "hypothesis_id": "H028",
+      "query_string": "Characterize gut microbiota differences between adults with Autism Spectrum Disorder and neurotypical controls, emphasizing specific shifts in microbial metabolic outputs (such as fatty acid profiles) and diversity metrics, and link these features to common comorbid psychiatric symptoms like anxiety."
+      },
+      {
+      "query_id": "Q029",
+      "hypothesis_id": "H029",
+      "query_string": "Evaluate whether combining probiotics with antibiotic treatment for depression better preserves or restores gut microbial diversity and leads to superior symptom outcomes compared with antibiotic monotherapy, and identify protocol and host factors that modulate success."
+      },
+      {
+      "query_id": "Q030",
+      "hypothesis_id": "H030",
+      "query_string": "Analyze how gut microbiota composition and depressive symptom severity co-vary across seasons, such as winter versus summer, and determine whether seasonal microbial shifts are mainly explained by dietary changes or represent an independent environmental influence."
+      }
+      ]
+      }
+
+    }
+  ]
+
+}
