@@ -19,18 +19,6 @@ This repository will provide the official implementation, datasets, experimental
 
 The code and documentation are being organized and will be released soon.
 
-## Citation
-
-If you find this repository useful, please cite our paper:
-
-```bibtex
-@inproceedings{yang2026thgagents,
-  title     = {THGAgents: Traceable Biomedical Hypothesis Generation via Dynamic Causal Reasoning},
-  author    = {Yang, Mingjian and Dong, Kun and Liu, Juan and Lim, Kevin},
-  booktitle = {Proceedings of the 35th International Joint Conference on Artificial Intelligence},
-  year      = {2026}
-}
-
 
 ### API Keys Setup
 
